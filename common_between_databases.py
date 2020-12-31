@@ -1,3 +1,6 @@
+#renatafu
+#takes inputs mapping-catalog and 3 excel files of pathways returned by ComPath
+#outputs pathways common in two or more databases, including relation and databases
 import pandas as pd
 
 cat = pd.read_excel(r'/Users/renatafu/Desktop/sci_re/Ovarian_CSCs/Pathways/mapping_catalog_v3.xlsx')
