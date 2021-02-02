@@ -28,3 +28,9 @@ if (!requireNamespace("writexl", quietly = TRUE)) {
 } else {
   update.packages("writexl")
 }
+
+if (!requireNamespace("stringr", quietly = TRUE)) {
+  install.packages("stringr")
+} else {
+  update.packages("stringr")
+}
