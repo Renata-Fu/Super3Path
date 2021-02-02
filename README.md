@@ -19,6 +19,7 @@ This module downloads necessary R packages for the next module. If a package is 
 #### command line
 `Rscript download_packages.R`
 
+-------------------------------
 
 ### module 2: GSEA_3databases.R
 This module does gene set enrichment analysis for a gene expression profile.
@@ -41,6 +42,7 @@ If this option is chosen, 3 .pdf files containing pathways presented by each dat
 
 This Rscript will output three .csv files regardless of whether you choose to plot. These files are inputs for the next script, so please do not delete them.
 
+-------------------------------
 
 ### module 3: common_pathways.py
 This module finds pathways common to 2 or more databases. Pathways have different names in different databases, but may represent the same biological process.
