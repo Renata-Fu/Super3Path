@@ -18,7 +18,6 @@ args <- commandArgs(trailingOnly = TRUE)
 
 #LOADING TXT EXPRESSION FILE FOR RANKS(stats)
 #load dataset
-setwd("/Users/renatafu/Desktop")
 data <- read.table(args[1], sep='\t', header = TRUE, skipNul = TRUE)
 
 #ranking
@@ -30,6 +29,7 @@ print (head(ranks))
 
 #LOADING GMT FILES FOR PATHS(pathways)
 #KEGG
+setwd("./input_files")
 KEGG <- GSA.read.gmt("c2.cp.kegg.v7.2.symbols.gmt")
 Kpaths <- KEGG$genesets
 names(Kpaths) <- KEGG$geneset.names
@@ -57,12 +57,13 @@ WikiPathwaysRes <- fgsea(Wpaths, ranks,
 #------------------------------------------------------------------------------
 
 #EXPORT TO CSV
+setwd("..")
 exportK <- subset(KEGGRes, select = -c(leadingEdge))
-write.csv(exportK, "/Users/renatafu/Desktop/KEGG_results.csv", row.names = FALSE)
+write.csv(exportK, "KEGG_results.csv", row.names = FALSE)
 exportR <- subset(ReactomeRes, select = -c(leadingEdge))
-write.csv(exportR, "/Users/renatafu/Desktop/Reactome_results.csv", row.names = FALSE)
+write.csv(exportR, "Reactome_results.csv", row.names = FALSE)
 exportW <- subset(WikiPathwaysRes, select = -c(leadingEdge))
-write.csv(exportW, "/Users/renatafu/Desktop/WikiPathways_results.csv", row.names = FALSE)
+write.csv(exportW, "WikiPathways_results.csv", row.names = FALSE)
 
 #------------------------------------------------------------------------------
 
