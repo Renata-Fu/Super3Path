@@ -3,24 +3,24 @@ import sys
 
 #preset command line arguments
 if len(sys.argv)<=2: #inputs
-    x = "/Users/renatafu/Desktop/KEGG_results.csv"
-    y = "/Users/renatafu/Desktop/Reactome_results.csv"
-    z = "/Users/renatafu/Desktop/WikiPathways_results.csv"
+    x = "KEGG_results.csv"
+    y = "Reactome_results.csv"
+    z = "WikiPathways_results.csv"
 elif len(sys.argv)<=3:
     x = sys.argv[2]
-    y = "/Users/renatafu/Desktop/Reactome_results.csv"
-    z = "/Users/renatafu/Desktop/WikiPathways_results.csv"
+    y = "Reactome_results.csv"
+    z = "WikiPathways_results.csv"
 elif len(sys.argv)<=4:
     x = sys.argv[2]
     y = sys.argv[3]
-    z = "/Users/renatafu/Desktop/WikiPathways_results.csv"
+    z = "WikiPathways_results.csv"
 else:
     x = sys.argv[2]
     y = sys.argv[3]
     z = sys.argv[4]
 
 #import data
-map_cat = pd.read_csv(r'/Users/renatafu/Desktop/mapping_catalog.csv') #mapping catalog
+map_cat = pd.read_csv(r'./input_files/mapping_catalog.csv') #mapping catalog
 map_cat_export = map_cat.copy(deep=True) #mapping catalog
 importK = pd.read_csv(x)
 KEGG = list(dict.fromkeys(importK["pathway"])) #KEGG
