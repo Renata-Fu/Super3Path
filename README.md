@@ -3,24 +3,24 @@
 ## Description
 
 ## Installation
-You can download SuperEnrich by clicking the green Code" button on the webpage, and then selecting "Download ZIP".
+You can download Super3Path by clicking the green Code" button on the webpage, and then selecting "Download ZIP".
 To download using bash, simply type `git clone` into terminal and the url which can be found by clicking the "Code" button.
 
 ## Requirements
 * R 4.0.3 or newer
-    * fgsea package
-    * BiocParallel package
-    * GSA 1.03.1 or newer
-    * data.table 1.13.6 or newer
-    * ggplot2 3.3.3 or newer
-    * writexl 1.3.1 or newer
-    * stringr 1.4.0 or newer
+    * other packages will be automatically installed by download_packages.R
 * Python 3.8 or newer
     * Pandas
 
 ## Usage
-On any computer with installed software (e.g. Anaconda) supporting terminal application, change directory to "SuperEnrich".
-### module 1: GSEA_3databases.R
+On any computer with installed software (e.g. Anaconda) supporting terminal application, change directory to "Super3Path".
+### module 1: download_packages.R
+This module downloads necessary R packages for the next module. If a package is already installed, it will be updated.
+#### command line
+`Rscript download_packages.R`
+
+
+### module 2: GSEA_3databases.R
 This module does gene set enrichment analysis for a gene expression profile.
 It uses pathway databases KEGG, Reactome, and WikiPathways (.gmt files provided in software package).
 #### user input
@@ -28,7 +28,6 @@ It uses pathway databases KEGG, Reactome, and WikiPathways (.gmt files provided 
     * must be a .txt file
     * must contain a column with standard gene names
     * must contain a column with log fold change (logFC)
-
 #### command line
 `Rscript GSEA_3databases.R [arg1] [arg2] [arg3]`
 
@@ -43,12 +42,10 @@ If this option is chosen, 3 .pdf files containing pathways presented by each dat
 This Rscript will output three .csv files regardless of whether you choose to plot. These files are inputs for the next script, so please do not delete them.
 
 
-### module 2: common_pathways.py
+### module 3: common_pathways.py
 This module finds pathways common to 2 or more databases. Pathways have different names in different databases, but may represent the same biological process.
-
 #### command line
 `python3 common_pathways.py`
-
 #### optional command line arguments
 * This script will automatically output 2 .csv files with pathway relations, if you do not want the output, please add the argument `n`.
 * If you changed the name of any input file (.csv files from the last script), please add the full path of the file as an argument. Please enter the paths in the file order: KEGG, Reactome, WikiPathways.
