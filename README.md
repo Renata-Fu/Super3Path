@@ -7,14 +7,14 @@ Gene set enrichment analysis (GSEA) is a common method in computational biology.
 Super3Path streamlines the process of using three databases for GSEA, and shows users pathways presented by multiple databases, so that users do not have to sort through everything themselves.
 
 ## Installation
-You can download Super3Path by clicking the green Code" button on the webpage, and then selecting "Download ZIP".
-To download using bash, simply type `git clone` into terminal and the url which can be found by clicking the "Code" button.
+* You can download Super3Path by clicking the green Code" button on the webpage, and then selecting "Download ZIP".
+* To download using bash, simply type `git clone` into terminal and the url which can be found by clicking the "Code" button.
 
 ## Requirements
 * R 4.0.3 or newer
-    * other packages will be automatically installed by download_packages.R
+    * other packages will be automatically installed by the first module, download_packages.R
 * Python 3.8 or newer
-    * Pandas
+    * Pandas ([installation guide here:](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html))
 
 ## Usage
 On any computer with installed software (e.g. Anaconda) supporting terminal application, change directory to "Super3Path".
