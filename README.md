@@ -1,5 +1,5 @@
 # README
-This pipeline does gene set enrichment analysis for an input dataset using three pathway databases (KEGG, Reactome, and WikiPathways), and it identifies pathways that are presented by multiple databases.
+This pipeline does gene set enrichment analysis for an input dataset using three pathway databases –– KEGG[1], Reactome[2], and WikiPathways[3], and it identifies pathways that are presented by multiple databases.
 
 ## Introduction
 Gene set enrichment analysis (GSEA) is a common method in computational biology. GSEA identifies enriched pathways in certain cell populations or under certain conditions, and it is important to our understanding of many illnesses, as well as how to treat them. While there are many pathway databases that can be used in GSEA, most studies fail to analyze results from multiple pathway databases because 1) the process is tedious 2) it is hard to categorize pathways based on the databases since different databases often name one biological pathway differently.
