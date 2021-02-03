@@ -14,7 +14,7 @@ Super3Path streamlines the process of using three databases for GSEA, and shows 
 * R 4.0.3 or newer
     * other packages will be automatically installed by the first module, download_packages.R
 * Python 3.8 or newer
-    * Pandas ([installation guide here:](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html))
+    * Pandas ([installation guide here](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html))
 
 ## Usage
 On any computer with installed software (e.g. Anaconda) supporting terminal application, change directory to "Super3Path".
@@ -27,7 +27,7 @@ This module downloads necessary R packages for the next module. If a package is 
 
 ### module 2: GSEA_3databases.R
 This module does gene set enrichment analysis for a gene expression profile.
-It uses pathway databases KEGG, Reactome, and WikiPathways (.gmt files provided in software package).
+It uses pathway databases KEGG, Reactome, and WikiPathways (.gmt files provided in the input_files folder of this package).
 #### user input
 * a gene expression profile comparing two conditions with microarray
     * must be a .txt file
@@ -41,10 +41,9 @@ It uses pathway databases KEGG, Reactome, and WikiPathways (.gmt files provided 
 * `arg2`: index of the log fold change (logFC) column
 * `arg3`: index of the standard gene name column
 #### optional command line arguments
-Type `plot-all` after `arg3` to plot all pathways. Separate the two arguments with a space.
-If this option is chosen, 3 .pdf files containing pathways presented by each database will be outputted. This process may take a few minutes, so please do not click the .pdf files before this message appears in your terminal window: "done."
+Type `plot-all` after `arg3` to plot all pathways. Separate the two arguments with a space. If this option is chosen, three .pdf files containing pathways presented by each database will be outputted. This process may take a few minutes, so please do not click the .pdf files before this message appears in your terminal window: "done."
 
-This Rscript will output three .csv files regardless of whether you choose to plot. These files are inputs for the next script, so please do not delete them.
+This Rscript will output three .csv files regardless of whether you choose to plot the pathways or not. These files are inputs for the next script, so please do not delete them. It is also suggested that you not change the names or location of these files, as it may complicate the next command.
 
 -------------------------------
 
