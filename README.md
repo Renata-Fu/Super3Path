@@ -66,7 +66,12 @@ Remember to separate all arguments with spaces.
 R. Fu, Y. Bai and Q. -E. Wang, "Computational identification of key pathways and differentially-expressed gene signatures in ovarian cancer stem cells," 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Seoul, Korea (South), 2020, pp. 1843-1848, doi:10.1109/BIBM49941.2020.9313416.
 
 ## Citations
-      Kanehisa, M., Furumichi, M., Sato, Y., Ishiguro-Watanabe, M., & Tanabe, M. (2020). KEGG: Integrating viruses and cellular organisms. Nucleic Acids Research, 49(D1). doi:10.1093/nar/gkaa970
+Kanehisa, M., Furumichi, M., Sato, Y., Ishiguro-Watanabe, M., & Tanabe, M. (2020). KEGG: Integrating viruses and cellular organisms. Nucleic Acids Research, 49(D1). doi:10.1093/nar/gkaa970
 
+Jassal, B., Matthews, L., Viteri, G., Gong, C., Lorente, P., Fabregat, A., . . . D’Eustachio, P. (2019). The reactome pathway knowledgebase. Nucleic Acids Research. doi:10.1093/nar/gkz1031
 
+Martens, M., Ammar, A., Riutta, A., Waagmeester, A., Slenter, D., Hanspers, K., . . . Kutmon, M. (2020). WikiPathways: Connecting communities. Nucleic Acids Research, 49(D1). doi:10.1093/nar/gkaa1024
 
+Korotkevich, G., Sukhov, V., Budin, N., Shpak, B., Artyomov, M. N., & Sergushichev, A. (2016). Fast gene set enrichment analysis. doi:10.1101/060012
+
+Domingo-Fernández, D., Hoyt, C. T., Bobis-Álvarez, C., Marín-Llaó, J., & Hofmann-Apitius, M. (2018). ComPath: An ecosystem for exploring, analyzing, and curating mappings across pathway databases. Nature. doi:10.1101/353235
