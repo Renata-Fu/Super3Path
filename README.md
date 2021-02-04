@@ -28,6 +28,8 @@ This module downloads necessary R packages for the next module. If a package is 
 ### module 2: GSEA_3databases.R
 This module does gene set enrichment analysis for a gene expression profile.
 It uses pathway databases KEGG, Reactome, and WikiPathways (.gmt files provided in the input_files folder of this package).
+
+This module uses the fgsea package. [4]
 #### user input
 * a gene expression profile comparing two conditions with microarray
     * must be a .txt file
@@ -49,6 +51,8 @@ This Rscript will output three .csv files regardless of whether you choose to pl
 
 ### module 3: common_pathways.py
 This module finds pathways common to 2 or more databases. Pathways have different names in different databases, but may represent the same biological process.
+
+This module utilizes Compath's mapping catalog [5]. A slightly modified version of this catalog can be found in the input_files folder.
 #### command line
 `python3 common_pathways.py`
 #### optional command line arguments
@@ -60,4 +64,9 @@ Remember to separate all arguments with spaces.
 
 ## Acknowledgements
 R. Fu, Y. Bai and Q. -E. Wang, "Computational identification of key pathways and differentially-expressed gene signatures in ovarian cancer stem cells," 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Seoul, Korea (South), 2020, pp. 1843-1848, doi:10.1109/BIBM49941.2020.9313416.
+
+## Citations
+      Kanehisa, M., Furumichi, M., Sato, Y., Ishiguro-Watanabe, M., & Tanabe, M. (2020). KEGG: Integrating viruses and cellular organisms. Nucleic Acids Research, 49(D1). doi:10.1093/nar/gkaa970
+
+
 
