@@ -43,7 +43,7 @@ This module uses the fgsea package. [4]
 * `arg2`: index of the log fold change (logFC) column
 * `arg3`: index of the standard gene name column
 #### optional command line arguments
-Type `plot-all` after `arg3` to plot all pathways. Separate the two arguments with a space. If this option is chosen, three .pdf files containing pathways presented by each database will be outputted. This process may take a few minutes, so please do not click the .pdf files before this message appears in your terminal window: "done."
+Type `plot-all` after `arg3` to plot all pathways. Separate the two arguments with a space. If this option is chosen, three .pdf files containing pathways presented by each database will be outputted. This process may take a long time depending on the speed of your device, so please do not try to open the .pdf files before this message appears in your terminal window: "done."
 
 This Rscript will output three .csv files regardless of whether you choose to plot the pathways or not. These files are inputs for the next script, so please do not delete them. It is also suggested that you not change the names or location of these files, as it may complicate the next command.
 
