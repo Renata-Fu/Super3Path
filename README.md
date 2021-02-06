@@ -62,16 +62,23 @@ Remember to separate all arguments with spaces.
 
 This Python script will output two .csv files. They are, respectively, collections of upregulated and downregulated pathways that are presented by two or three databases.
 
+## samples
+This package includes two test samples in the samples folder. The tests were done using public datasets from the Gene Expression Omnibus, GSE104975 [6] and GSE156435[7].
+
 ## Acknowledgements
 R. Fu, Y. Bai and Q. -E. Wang, "Computational identification of key pathways and differentially-expressed gene signatures in ovarian cancer stem cells," 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Seoul, Korea (South), 2020, pp. 1843-1848, doi:10.1109/BIBM49941.2020.9313416.
 
 ## Citations
-Kanehisa, M., Furumichi, M., Sato, Y., Ishiguro-Watanabe, M., & Tanabe, M. (2020). KEGG: Integrating viruses and cellular organisms. Nucleic Acids Research, 49(D1). doi:10.1093/nar/gkaa970
+Kanehisa, M., Furumichi, M., Sato, Y., Ishiguro-Watanabe, M., & Tanabe, M. (2020). KEGG: Integrating viruses and cellular organisms. Nucleic Acids Research, 49(D1). https://doi.org/10.1093/nar/gkaa970
 
-Jassal, B., Matthews, L., Viteri, G., Gong, C., Lorente, P., Fabregat, A., . . . D’Eustachio, P. (2019). The reactome pathway knowledgebase. Nucleic Acids Research. doi:10.1093/nar/gkz1031
+Jassal, B., Matthews, L., Viteri, G., Gong, C., Lorente, P., Fabregat, A., . . . D’Eustachio, P. (2019). The reactome pathway knowledgebase. Nucleic Acids Research. https://doi.org/10.1093/nar/gkz1031
 
-Martens, M., Ammar, A., Riutta, A., Waagmeester, A., Slenter, D., Hanspers, K., . . . Kutmon, M. (2020). WikiPathways: Connecting communities. Nucleic Acids Research, 49(D1). doi:10.1093/nar/gkaa1024
+Martens, M., Ammar, A., Riutta, A., Waagmeester, A., Slenter, D., Hanspers, K., . . . Kutmon, M. (2020). WikiPathways: Connecting communities. Nucleic Acids Research, 49(D1). https://doi.org/10.1093/nar/gkaa1024
 
 Korotkevich, G., Sukhov, V., Budin, N., Shpak, B., Artyomov, M. N., & Sergushichev, A. (2016). Fast gene set enrichment analysis. doi:10.1101/060012
 
-Domingo-Fernández, D., Hoyt, C. T., Bobis-Álvarez, C., Marín-Llaó, J., & Hofmann-Apitius, M. (2018). ComPath: An ecosystem for exploring, analyzing, and curating mappings across pathway databases. Nature. doi:10.1101/353235
+Domingo-Fernández, D., Hoyt, C. T., Bobis-Álvarez, C., Marín-Llaó, J., & Hofmann-Apitius, M. (2018). ComPath: An ecosystem for exploring, analyzing, and curating mappings across pathway databases. Nature. https://doi.org/10.1101/353235
+
+Maitra Majee, S., Sharma, E., Singh, B., & Khurana, J. P. (2020). Drought-induced protein (Di19-3) plays a role in auxin signaling by interacting with IAA14 in Arabidopsis. Plant direct, 4(6), e00234. https://doi.org/10.1002/pld3.234
+
+Cui, J., Song, Y., Han, X., Hu, J., Chen, Y., Chen, X., Xu, X., Xing, Y., Lu, H., & Cai, L. (2020). Targeting 14-3-3ζ Overcomes Resistance to Epidermal Growth Factor Receptor-Tyrosine Kinase Inhibitors in Lung Adenocarcinoma via BMP2/Smad/ID1 Signaling. Frontiers in oncology, 10, 542007. https://doi.org/10.3389/fonc.2020.542007
