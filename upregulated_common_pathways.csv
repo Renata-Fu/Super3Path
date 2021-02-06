@@ -1,0 +1,389 @@
+Pathway 1,Database 1,Relation,Pathway 2,Database 2
+Adherens junction,KEGG,Equivalent,Adherens junctions interactions,Reactome
+"Alanine, aspartate and glutamate metabolism",KEGG,Part Of,Amino Acid metabolism,WikiPathways
+"Alanine, aspartate and glutamate metabolism",KEGG,Part Of,Metabolism of amino acids and derivatives,Reactome
+Apoptosis,KEGG,Equivalent,Apoptosis,WikiPathways
+Arginine and proline metabolism,KEGG,Part Of,Amino Acid metabolism,WikiPathways
+Arginine and proline metabolism,KEGG,Part Of,Urea cycle and metabolism of amino groups,WikiPathways
+Arginine and proline metabolism,KEGG,Part Of,Metabolism of amino acids and derivatives,Reactome
+Arrhythmogenic right ventricular cardiomyopathy (ARVC),KEGG,Equivalent,Arrhythmogenic Right Ventricular Cardiomyopathy,WikiPathways
+B cell receptor signaling pathway,KEGG,Equivalent,B Cell Receptor Signaling Pathway,WikiPathways
+B cell receptor signaling pathway,KEGG,Part Of,Adaptive Immune System,Reactome
+Basal transcription factors,KEGG,Part Of,RNA Polymerase II Transcription,Reactome
+Basal transcription factors,KEGG,Part Of,Metabolism of RNA,Reactome
+Base excision repair,KEGG,Equivalent,Base Excision Repair,Reactome
+beta-Alanine metabolism,KEGG,Part Of,Urea cycle and metabolism of amino groups,WikiPathways
+beta-Alanine metabolism,KEGG,Part Of,Alanine and aspartate metabolism,WikiPathways
+beta-Alanine metabolism,KEGG,Part Of,Amino Acid metabolism,WikiPathways
+beta-Alanine metabolism,KEGG,Part Of,Metabolism of amino acids and derivatives,Reactome
+Biosynthesis of unsaturated fatty acids,KEGG,Part Of,Fatty Acid Biosynthesis,WikiPathways
+Biosynthesis of unsaturated fatty acids,KEGG,Part Of,Fatty acid metabolism,Reactome
+Biosynthesis of unsaturated fatty acids,KEGG,Part Of,Metabolism of lipids,Reactome
+Cardiac muscle contraction,KEGG,Part Of,Muscle contraction,Reactome
+Cell cycle,KEGG,Equivalent,Cell Cycle,WikiPathways
+Cell cycle,KEGG,Equivalent,Cell Cycle,Reactome
+Cysteine and methionine metabolism,KEGG,Part Of,Amino Acid metabolism,WikiPathways
+Cysteine and methionine metabolism,KEGG,Part Of,Sulfur amino acid metabolism,Reactome
+Cysteine and methionine metabolism,KEGG,Part Of,Metabolism of amino acids and derivatives,Reactome
+DNA replication,KEGG,Equivalent,DNA Replication,WikiPathways
+DNA replication,KEGG,Equivalent,DNA Replication,Reactome
+Endometrial cancer,KEGG,Equivalent,Endometrial cancer,WikiPathways
+ErbB signaling pathway,KEGG,Equivalent,ErbB Signaling Pathway,WikiPathways
+Ether lipid metabolism,KEGG,Part Of,Metabolism of lipids,Reactome
+Fatty acid metabolism,KEGG,Equivalent,Fatty acid metabolism,Reactome
+Fatty acid metabolism,KEGG,Part Of,Metabolism of lipids,Reactome
+Fatty acid metabolism,KEGG,Part Of,Mitochondrial Fatty Acid Beta-Oxidation,Reactome
+Fc gamma R-mediated phagocytosis,KEGG,Equivalent,Fcgamma receptor (FCGR) dependent phagocytosis,Reactome
+Focal adhesion,KEGG,Equivalent,Focal Adhesion,WikiPathways
+Folate biosynthesis,KEGG,Part Of,Metabolism of water-soluble vitamins and cofactors,Reactome
+Folate biosynthesis,KEGG,Part Of,Metabolism of vitamins and cofactors,Reactome
+Glycerolipid metabolism,KEGG,Part Of,Metabolism of lipids,Reactome
+Glycerophospholipid metabolism,KEGG,Part Of,Metabolism of lipids,Reactome
+"Glycine, serine and threonine metabolism",KEGG,Part Of,Urea cycle and metabolism of amino groups,WikiPathways
+"Glycine, serine and threonine metabolism",KEGG,Part Of,Amino Acid metabolism,WikiPathways
+"Glycine, serine and threonine metabolism",KEGG,Part Of,Metabolism of amino acids and derivatives,Reactome
+Hedgehog signaling pathway,KEGG,Equivalent,Hedgehog Signaling Pathway,WikiPathways
+Hedgehog signaling pathway,KEGG,Equivalent,Signaling by Hedgehog,Reactome
+Histidine metabolism,KEGG,Part Of,Amino Acid metabolism,WikiPathways
+Histidine metabolism,KEGG,Part Of,Metabolism of amino acids and derivatives,Reactome
+Homologous recombination,KEGG,Equivalent,Homologous recombination,WikiPathways
+Inositol phosphate metabolism,KEGG,Equivalent,Inositol phosphate metabolism,Reactome
+Insulin signaling pathway,KEGG,Part Of,Insulin signalling in human adipocytes (normal condition),WikiPathways
+Linoleic acid metabolism,KEGG,Equivalent,Linoleic acid (LA) metabolism,Reactome
+Linoleic acid metabolism,KEGG,Part Of,Metabolism of lipids,Reactome
+Lysine degradation,KEGG,Part Of,Amino Acid metabolism,WikiPathways
+Lysine degradation,KEGG,Equivalent,Lysine catabolism,Reactome
+MAPK signaling pathway,KEGG,Equivalent,MAPK Signaling Pathway,WikiPathways
+MAPK signaling pathway,KEGG,Equivalent,MAPK family signaling cascades,Reactome
+Melanogenesis,KEGG,Equivalent,Melanin biosynthesis,Reactome
+Mismatch repair,KEGG,Equivalent,Mismatch Repair,Reactome
+mTOR signaling pathway,KEGG,Equivalent,Target Of Rapamycin (TOR) Signaling,WikiPathways
+mTOR signaling pathway,KEGG,Equivalent,mTOR signalling,Reactome
+Nitrogen metabolism,KEGG,Part Of,Metabolism of amino acids and derivatives,Reactome
+Notch signaling pathway,KEGG,Equivalent,Signaling by NOTCH,Reactome
+Nucleotide excision repair,KEGG,Equivalent,Nucleotide Excision Repair,Reactome
+One carbon pool by folate,KEGG,Part Of,One carbon metabolism and related pathways,WikiPathways
+One carbon pool by folate,KEGG,Part Of,One Carbon Metabolism,WikiPathways
+One carbon pool by folate,KEGG,Part Of,Metabolism of folate and pterines,Reactome
+One carbon pool by folate,KEGG,Part Of,Metabolism of vitamins and cofactors,Reactome
+Oxidative phosphorylation,KEGG,Part Of,The citric acid (TCA) cycle and respiratory electron transport,Reactome
+Pantothenate and CoA biosynthesis,KEGG,Part Of,Metabolism of vitamins and cofactors,Reactome
+Pathogenic Escherichia coli infection,KEGG,Equivalent,Pathogenic Escherichia coli infection,WikiPathways
+Pentose and glucuronate interconversions,KEGG,Part Of,Glucuronidation,WikiPathways
+Pentose phosphate pathway,KEGG,Equivalent,Pentose phosphate pathway,Reactome
+Phenylalanine metabolism,KEGG,Part Of,Amino Acid metabolism,WikiPathways
+Phenylalanine metabolism,KEGG,Part Of,Metabolism of amino acids and derivatives,Reactome
+Prion diseases,KEGG,Equivalent,Prion disease pathway,WikiPathways
+Proteasome,KEGG,Equivalent,Proteasome Degradation,WikiPathways
+Pyrimidine metabolism,KEGG,Equivalent,Pyrimidine metabolism,WikiPathways
+Pyruvate metabolism,KEGG,Equivalent,Pyruvate metabolism,Reactome
+Regulation of actin cytoskeleton,KEGG,Equivalent,Regulation of Actin Cytoskeleton,WikiPathways
+RNA degradation,KEGG,Part Of,Metabolism of RNA,Reactome
+RNA polymerase,KEGG,Part Of,Eukaryotic Transcription Initiation,WikiPathways
+SNARE interactions in vesicular transport,KEGG,Part Of,Synaptic Vesicle Pathway,WikiPathways
+SNARE interactions in vesicular transport,KEGG,Part Of,Vesicle-mediated transport,Reactome
+SNARE interactions in vesicular transport,KEGG,Part Of,Membrane Trafficking,Reactome
+Sphingolipid metabolism,KEGG,Equivalent,Sphingolipid metabolism,Reactome
+Spliceosome,KEGG,Part Of,mRNA Processing,WikiPathways
+Spliceosome,KEGG,Part Of,Processing of Capped Intronless Pre-mRNA,Reactome
+Spliceosome,KEGG,Part Of,mRNA Splicing,Reactome
+Spliceosome,KEGG,Part Of,Metabolism of RNA,Reactome
+Spliceosome,KEGG,Part Of,Processing of Capped Intron-Containing Pre-mRNA,Reactome
+Spliceosome,KEGG,Part Of,RNA Polymerase II Transcription Termination,Reactome
+Starch and sucrose metabolism,KEGG,Part Of,Metabolism of carbohydrates,Reactome
+Steroid biosynthesis,KEGG,Equivalent,Steroid Biosynthesis,WikiPathways
+Steroid biosynthesis,KEGG,Part Of,Metabolism of steroids,Reactome
+Steroid hormone biosynthesis,KEGG,Part Of,Metabolism of steroid hormones,Reactome
+Type II diabetes mellitus,KEGG,Equivalent,Type II diabetes mellitus,WikiPathways
+Tyrosine metabolism,KEGG,Part Of,Amino Acid metabolism,WikiPathways
+Tyrosine metabolism,KEGG,Part Of,Metabolism of amino acids and derivatives,Reactome
+Ubiquitin mediated proteolysis,KEGG,Part Of,Proteasome Degradation,WikiPathways
+"Valine, leucine and isoleucine degradation",KEGG,Part Of,Amino Acid metabolism,WikiPathways
+"Valine, leucine and isoleucine degradation",KEGG,Part Of,Branched-chain amino acid catabolism,Reactome
+"Valine, leucine and isoleucine degradation",KEGG,Part Of,Metabolism of amino acids and derivatives,Reactome
+Vascular smooth muscle contraction,KEGG,Part Of,Smooth Muscle Contraction,Reactome
+Vascular smooth muscle contraction,KEGG,Part Of,Muscle contraction,Reactome
+Vasopressin-regulated water reabsorption,KEGG,Equivalent,Vasopressin regulates renal water homeostasis via Aquaporins,Reactome
+Wnt signaling pathway,KEGG,Equivalent,Signaling by WNT,Reactome
+ABC transporter disorders,Reactome,Part Of,ABC transporters,KEGG
+ABC transporters in lipid homeostasis,Reactome,Part Of,ABC transporters,KEGG
+ABC-family proteins mediated transport,Reactome,Part Of,ABC transporters,KEGG
+Acetylcholine Neurotransmitter Release Cycle,Reactome,Part Of,Synaptic Vesicle Pathway,WikiPathways
+activated TAK1 mediates p38 MAPK activation,Reactome,Part Of,MAPK signaling pathway,KEGG
+Activation of ATR in response to replication stress,Reactome,Part Of,ATR Signaling,WikiPathways
+Activation of caspases through apoptosome-mediated cleavage,Reactome,Part Of,Apoptosis Modulation and Signaling,WikiPathways
+Activation of RAS in B cells,Reactome,Part Of,Pathways in cancer,KEGG
+Acyl chain remodeling of DAG and TAG,Reactome,Part Of,Glycerolipid metabolism,KEGG
+Acyl chain remodelling of PC,Reactome,Part Of,Glycerophospholipid metabolism,KEGG
+Androgen biosynthesis,Reactome,Part Of,Steroid Biosynthesis,WikiPathways
+Apoptotic factor-mediated response,Reactome,Part Of,Apoptosis Modulation and Signaling,WikiPathways
+Aryl hydrocarbon receptor signalling,Reactome,Equivalent,Aryl Hydrocarbon Receptor Pathway,WikiPathways
+Assembly of the ORC complex at the origin of replication,Reactome,Part Of,G1 to S cell cycle control,WikiPathways
+Beta oxidation of butanoyl-CoA to acetyl-CoA,Reactome,Part Of,Butanoate metabolism,KEGG
+Beta oxidation of butanoyl-CoA to acetyl-CoA,Reactome,Part Of,Fatty Acid Beta Oxidation,WikiPathways
+Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA,Reactome,Part Of,Fatty Acid Beta Oxidation,WikiPathways
+Beta oxidation of hexanoyl-CoA to butanoyl-CoA,Reactome,Part Of,Butanoate metabolism,KEGG
+Beta oxidation of hexanoyl-CoA to butanoyl-CoA,Reactome,Part Of,Fatty Acid Beta Oxidation,WikiPathways
+Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA,Reactome,Part Of,Fatty Acid Beta Oxidation,WikiPathways
+Beta oxidation of octanoyl-CoA to hexanoyl-CoA,Reactome,Part Of,Fatty Acid Beta Oxidation,WikiPathways
+CaMK IV-mediated phosphorylation of CREB,Reactome,Part Of,Energy Metabolism,WikiPathways
+Cargo recognition for clathrin-mediated endocytosis,Reactome,Part Of,Endocytosis,KEGG
+CD28 co-stimulation,Reactome,Part Of,T cell receptor signaling pathway,KEGG
+Cell Cycle,Reactome,Equivalent,Cell Cycle,WikiPathways
+Cholesterol biosynthesis,Reactome,Part Of,Steroid Biosynthesis,WikiPathways
+Chromatin modifying enzymes,Reactome,Part Of,Histone Modifications,WikiPathways
+Clathrin-mediated endocytosis,Reactome,Part Of,Endocytosis,KEGG
+Coenzyme A biosynthesis,Reactome,Part Of,Pantothenate and CoA biosynthesis,KEGG
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants,Reactome,Part Of,ErbB Signaling Pathway,WikiPathways
+Cytochrome c-mediated apoptotic response,Reactome,Part Of,Pathways in cancer,KEGG
+Cytochrome c-mediated apoptotic response,Reactome,Part Of,Apoptosis Modulation and Signaling,WikiPathways
+Cytosolic tRNA aminoacylation,Reactome,Part Of,Aminoacyl-tRNA biosynthesis,KEGG
+Degradation of GLI1 by the proteasome,Reactome,Part Of,Proteasome,KEGG
+Digestion of dietary lipid,Reactome,Part Of,Glycerophospholipid metabolism,KEGG
+DNA Damage Bypass,Reactome,Part Of,DNA Damage Response,WikiPathways
+DNA Replication,Reactome,Equivalent,DNA Replication,WikiPathways
+Dopamine Neurotransmitter Release Cycle,Reactome,Part Of,Synaptic Vesicle Pathway,WikiPathways
+Dopamine receptors,Reactome,Part Of,Dopamine metabolism,WikiPathways
+Dopamine receptors,Reactome,Part Of,Monoamine GPCRs,WikiPathways
+Downregulation of ERBB2 signaling,Reactome,Part Of,ErbB signaling pathway,KEGG
+Downregulation of ERBB4 signaling,Reactome,Part Of,ErbB signaling pathway,KEGG
+EGFR Transactivation by Gastrin,Reactome,Part Of,ErbB Signaling Pathway,WikiPathways
+ERBB2 Activates PTK6 Signaling,Reactome,Part Of,ErbB signaling pathway,KEGG
+ERBB2 Activates PTK6 Signaling,Reactome,Part Of,ErbB Signaling Pathway,WikiPathways
+ERBB2 Regulates Cell Motility,Reactome,Part Of,ErbB signaling pathway,KEGG
+ERBB2 Regulates Cell Motility,Reactome,Part Of,ErbB Signaling Pathway,WikiPathways
+Estrogen biosynthesis,Reactome,Part Of,Steroid hormone biosynthesis,KEGG
+Estrogen biosynthesis,Reactome,Part Of,Steroid Biosynthesis,WikiPathways
+Fatty acyl-CoA biosynthesis,Reactome,Part Of,Biosynthesis of unsaturated fatty acids,KEGG
+Fatty acyl-CoA biosynthesis,Reactome,Part Of,Fatty Acid Biosynthesis,WikiPathways
+FCERI mediated MAPK activation,Reactome,Part Of,MAPK signaling pathway,KEGG
+Fructose catabolism,Reactome,Part Of,Fructose and mannose metabolism,KEGG
+Fructose metabolism,Reactome,Part Of,Fructose and mannose metabolism,KEGG
+GABA receptor activation,Reactome,Equivalent,GABA receptor Signaling,WikiPathways
+"GABA synthesis, release, reuptake and degradation",Reactome,Part Of,Synaptic Vesicle Pathway,WikiPathways
+Gap junction degradation,Reactome,Part Of,Gap junction,KEGG
+Gastrin-CREB signalling pathway via PKC and MAPK,Reactome,Part Of,MAPK signaling pathway,KEGG
+Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation,Reactome,Part Of,JAK-STAT signaling pathway,KEGG
+Glucocorticoid biosynthesis,Reactome,Part Of,Steroid hormone biosynthesis,KEGG
+Glucocorticoid biosynthesis,Reactome,Part Of,Glucocorticoid and Mineralcorticoid Metabolism,WikiPathways
+Glucocorticoid biosynthesis,Reactome,Part Of,Steroid Biosynthesis,WikiPathways
+Glucuronidation,Reactome,Equivalent,Glucuronidation,WikiPathways
+Glycerophospholipid biosynthesis,Reactome,Part Of,Glycerophospholipid metabolism,KEGG
+Glycerophospholipid biosynthesis,Reactome,Equivalent,Glycerophospholipid Biosynthetic Pathway,WikiPathways
+GRB2 events in ERBB2 signaling,Reactome,Part Of,ErbB signaling pathway,KEGG
+GRB2 events in ERBB2 signaling,Reactome,Part Of,ErbB Signaling Pathway,WikiPathways
+GRB7 events in ERBB2 signaling,Reactome,Part Of,ErbB signaling pathway,KEGG
+GRB7 events in ERBB2 signaling,Reactome,Part Of,ErbB Signaling Pathway,WikiPathways
+Hedgehog 'off' state,Reactome,Part Of,Hedgehog signaling pathway,KEGG
+Hedgehog 'on' state,Reactome,Part Of,Hedgehog signaling pathway,KEGG
+Hedgehog ligand biogenesis,Reactome,Part Of,Hedgehog signaling pathway,KEGG
+Heme biosynthesis,Reactome,Equivalent,Heme Biosynthesis,WikiPathways
+Histidine catabolism,Reactome,Part Of,Histidine metabolism,KEGG
+Homology Directed Repair,Reactome,Part Of,Homologous recombination,KEGG
+Homology Directed Repair,Reactome,Part Of,Homologous recombination,WikiPathways
+Inositol phosphate metabolism,Reactome,Part Of,Phosphatidylinositol signaling system,KEGG
+Insulin receptor signalling cascade,Reactome,Part Of,Insulin signaling pathway,KEGG
+Integrin signaling,Reactome,Part Of,Focal adhesion,KEGG
+Integrin signaling,Reactome,Part Of,Focal Adhesion,WikiPathways
+Interleukin-15 signaling,Reactome,Part Of,JAK-STAT signaling pathway,KEGG
+Interleukin-17 signaling,Reactome,Equivalent,IL17 signaling pathway,WikiPathways
+Interleukin-21 signaling,Reactome,Part Of,JAK-STAT signaling pathway,KEGG
+Interleukin-23 signaling,Reactome,Part Of,JAK-STAT signaling pathway,KEGG
+Interleukin-6 signaling,Reactome,Part Of,JAK-STAT signaling pathway,KEGG
+Ketone body metabolism,Reactome,Equivalent,Synthesis and Degradation of Ketone Bodies,WikiPathways
+Linoleic acid (LA) metabolism,Reactome,Part Of,Biosynthesis of unsaturated fatty acids,KEGG
+MAP2K and MAPK activation,Reactome,Part Of,MAPK signaling pathway,KEGG
+MAPK family signaling cascades,Reactome,Equivalent,MAPK Cascade,WikiPathways
+MAPK family signaling cascades,Reactome,Equivalent,MAPK Signaling Pathway,WikiPathways
+MAPK1 (ERK2) activation,Reactome,Part Of,MAPK signaling pathway,KEGG
+MAPK3 (ERK1) activation,Reactome,Part Of,MAPK signaling pathway,KEGG
+Melanin biosynthesis,Reactome,Part Of,Melanogenesis,KEGG
+Metabolism of amino acids and derivatives,Reactome,Equivalent,Amino Acid metabolism,WikiPathways
+Metabolism of lipids,Reactome,Equivalent,Lipid Metabolism Pathway,WikiPathways
+Methionine salvage pathway,Reactome,Equivalent,Methionine De Novo and Salvage Pathway,WikiPathways
+Methionine salvage pathway,Reactome,Part Of,Methionine De Novo and Salvage Pathway,WikiPathways
+Methylation,Reactome,Equivalent,Methylation Pathways,WikiPathways
+MHC class II antigen presentation,Reactome,Part Of,Antigen processing and presentation,KEGG
+MicroRNA (miRNA) biogenesis,Reactome,Equivalent,miRNA Biogenesis,WikiPathways
+Mineralocorticoid biosynthesis,Reactome,Part Of,Steroid hormone biosynthesis,KEGG
+Mineralocorticoid biosynthesis,Reactome,Part Of,Glucocorticoid and Mineralcorticoid Metabolism,WikiPathways
+Mineralocorticoid biosynthesis,Reactome,Part Of,Steroid Biosynthesis,WikiPathways
+Mitochondrial biogenesis,Reactome,Part Of,Energy Metabolism,WikiPathways
+Mitochondrial biogenesis,Reactome,Part Of,Mitochondrial Gene Expression,WikiPathways
+Mitochondrial Fatty Acid Beta-Oxidation,Reactome,Equivalent,Fatty Acid Beta Oxidation,WikiPathways
+mitochondrial fatty acid beta-oxidation of saturated fatty acids,Reactome,Part Of,Fatty Acid Beta Oxidation,WikiPathways
+mitochondrial fatty acid beta-oxidation of unsaturated fatty acids,Reactome,Part Of,Fatty Acid Beta Oxidation,WikiPathways
+Mitochondrial tRNA aminoacylation,Reactome,Part Of,Aminoacyl-tRNA biosynthesis,KEGG
+Molybdenum cofactor biosynthesis,Reactome,Part Of,Folate biosynthesis,KEGG
+mRNA decay by 3' to 5' exoribonuclease,Reactome,Part Of,RNA degradation,KEGG
+mRNA decay by 5' to 3' exoribonuclease,Reactome,Part Of,RNA degradation,KEGG
+mRNA Splicing,Reactome,Part Of,mRNA Processing,WikiPathways
+mTOR signalling,Reactome,Equivalent,Target Of Rapamycin (TOR) Signaling,WikiPathways
+Muscarinic acetylcholine receptors,Reactome,Part Of,Calcium Regulation in the Cardiac Cell,WikiPathways
+N-glycan trimming and elongation in the cis-Golgi,Reactome,Part Of,N-Glycan biosynthesis,KEGG
+Negative feedback regulation of MAPK pathway,Reactome,Part Of,MAPK signaling pathway,KEGG
+Negative regulation of MAPK pathway,Reactome,Part Of,MAPK signaling pathway,KEGG
+Nitric oxide stimulates guanylate cyclase,Reactome,Part Of,Effects of Nitric Oxide,WikiPathways
+Non-integrin membrane-ECM interactions,Reactome,Part Of,Focal adhesion,KEGG
+Norepinephrine Neurotransmitter Release Cycle,Reactome,Part Of,Synaptic Vesicle Pathway,WikiPathways
+Nuclear Receptor transcription pathway,Reactome,Part Of,Nuclear Receptors,WikiPathways
+p130Cas linkage to MAPK signaling for integrins,Reactome,Part Of,MAPK signaling pathway,KEGG
+p38MAPK events,Reactome,Part Of,MAPK signaling pathway,KEGG
+p38MAPK events,Reactome,Equivalent,p38 MAPK Signaling Pathway,WikiPathways
+Phospholipid metabolism,Reactome,Part Of,Ether lipid metabolism,KEGG
+PI3K events in ERBB2 signaling,Reactome,Part Of,ErbB signaling pathway,KEGG
+PI3K events in ERBB2 signaling,Reactome,Part Of,ErbB Signaling Pathway,WikiPathways
+PI3K events in ERBB4 signaling,Reactome,Part Of,ErbB signaling pathway,KEGG
+PI3K events in ERBB4 signaling,Reactome,Part Of,ErbB Signaling Pathway,WikiPathways
+PKMTs methylate histone lysines,Reactome,Part Of,Histone Modifications,WikiPathways
+Platelet calcium homeostasis,Reactome,Part Of,Calcium signaling pathway,KEGG
+Processing of Capped Intron-Containing Pre-mRNA,Reactome,Part Of,mRNA Processing,WikiPathways
+Processing of Capped Intronless Pre-mRNA,Reactome,Part Of,mRNA Processing,WikiPathways
+Processing of Intronless Pre-mRNAs,Reactome,Part Of,mRNA Processing,WikiPathways
+Prolactin receptor signaling,Reactome,Equivalent,Prolactin Signaling Pathway,WikiPathways
+Propionyl-CoA catabolism,Reactome,Part Of,Propanoate metabolism,KEGG
+RA biosynthesis pathway,Reactome,Part Of,Vitamin A and Carotenoid Metabolism,WikiPathways
+Regulation of IFNG signaling,Reactome,Part Of,JAK-STAT signaling pathway,KEGG
+Regulation of TP53 Activity through Methylation,Reactome,Part Of,p53 signaling pathway,KEGG
+Regulation of TP53 Expression and Degradation,Reactome,Part Of,p53 signaling pathway,KEGG
+Release of apoptotic factors from the mitochondria,Reactome,Part Of,Apoptosis Modulation and Signaling,WikiPathways
+RNA Polymerase I Promoter Escape,Reactome,Part Of,Basal transcription factors,KEGG
+RNA Polymerase I Transcription Termination,Reactome,Part Of,Basal transcription factors,KEGG
+RNA polymerase II transcribes snRNA genes,Reactome,Part Of,Basal transcription factors,KEGG
+RNA Polymerase II Transcription,Reactome,Part Of,Basal transcription factors,KEGG
+RUNX1 regulates expression of components of tight junctions,Reactome,Part Of,Tight junction,KEGG
+RUNX2 regulates chondrocyte maturation,Reactome,Part Of,Endochondral Ossification,WikiPathways
+RUNX3 regulates WNT signaling,Reactome,Part Of,Wnt signaling pathway,KEGG
+Serotonin Neurotransmitter Release Cycle,Reactome,Part Of,Synaptic Vesicle Pathway,WikiPathways
+SHC1 events in EGFR signaling,Reactome,Part Of,ErbB Signaling Pathway,WikiPathways
+SHC1 events in ERBB2 signaling,Reactome,Part Of,ErbB signaling pathway,KEGG
+SHC1 events in ERBB2 signaling,Reactome,Part Of,ErbB Signaling Pathway,WikiPathways
+SHC1 events in ERBB4 signaling,Reactome,Part Of,ErbB signaling pathway,KEGG
+SHC1 events in ERBB4 signaling,Reactome,Part Of,ErbB Signaling Pathway,WikiPathways
+Signaling by BMP,Reactome,Equivalent,Bone Morphogenic Protein (BMP) Signalling and Regulation,WikiPathways
+Signaling by EGFR in Cancer,Reactome,Part Of,ErbB Signaling Pathway,WikiPathways
+Signaling by ERBB2,Reactome,Part Of,ErbB signaling pathway,KEGG
+Signaling by ERBB2,Reactome,Part Of,ErbB Signaling Pathway,WikiPathways
+Signaling by ERBB4,Reactome,Part Of,ErbB signaling pathway,KEGG
+Signaling by Hedgehog,Reactome,Part Of,Hedgehog signaling pathway,KEGG
+Signaling by Hedgehog,Reactome,Equivalent,Hedgehog Signaling Pathway,WikiPathways
+Signaling by Insulin receptor,Reactome,Part Of,Insulin signaling pathway,KEGG
+Signaling by Leptin,Reactome,Part Of,Adipocytokine signaling pathway,KEGG
+Signaling by Leptin,Reactome,Equivalent,Leptin signaling pathway,WikiPathways
+Signaling by VEGF,Reactome,Part Of,Robo4 and VEGF Signaling Pathways Crosstalk,WikiPathways
+Signaling by WNT,Reactome,Part Of,Wnt Signaling Pathway and Pluripotency,WikiPathways
+SOS-mediated signalling,Reactome,Part Of,Alpha 6 Beta 4 signaling pathway,WikiPathways
+SOS-mediated signalling,Reactome,Part Of,DNA Damage Response (only ATM dependent),WikiPathways
+"Synthesis of IP2, IP, and Ins in the cytosol",Reactome,Part Of,Phosphatidylinositol signaling system,KEGG
+Synthesis of PE,Reactome,Part Of,Glycerophospholipid metabolism,KEGG
+Synthesis of PIPs at the early endosome membrane,Reactome,Part Of,Phosphatidylinositol signaling system,KEGG
+Synthesis of PIPs at the ER membrane,Reactome,Part Of,Phosphatidylinositol signaling system,KEGG
+Synthesis of PIPs at the Golgi membrane,Reactome,Part Of,Phosphatidylinositol signaling system,KEGG
+Synthesis of PIPs at the late endosome membrane,Reactome,Part Of,Phosphatidylinositol signaling system,KEGG
+Synthesis of PIPs at the plasma membrane,Reactome,Part Of,Phosphatidylinositol signaling system,KEGG
+Synthesis of very long-chain fatty acyl-CoAs,Reactome,Part Of,Biosynthesis of unsaturated fatty acids,KEGG
+TP53 Regulates Metabolic Genes,Reactome,Part Of,p53 signaling pathway,KEGG
+TP53 Regulates Transcription of Caspase Activators and Caspases,Reactome,Part Of,p53 signaling pathway,KEGG
+TP53 Regulates Transcription of Caspase Activators and Caspases,Reactome,Part Of,Apoptosis Modulation and Signaling,WikiPathways
+TP53 Regulates Transcription of Cell Cycle Genes,Reactome,Part Of,p53 signaling pathway,KEGG
+TP53 Regulates Transcription of Cell Death Genes,Reactome,Part Of,p53 signaling pathway,KEGG
+TP53 Regulates Transcription of Death Receptors and Ligands,Reactome,Part Of,p53 signaling pathway,KEGG
+TP53 Regulates Transcription of Genes Involved in Cytochrome C Release,Reactome,Part Of,p53 signaling pathway,KEGG
+TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest,Reactome,Part Of,p53 signaling pathway,KEGG
+TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain,Reactome,Part Of,p53 signaling pathway,KEGG
+Transcriptional regulation of white adipocyte differentiation,Reactome,Part Of,Differentiation of white and brown adipocyte,WikiPathways
+Transcriptional regulation of white adipocyte differentiation,Reactome,Part Of,Transcription factor regulation in adipogenesis,WikiPathways
+Transcriptional regulation of white adipocyte differentiation,Reactome,Part Of,Transcriptional cascade regulating adipogenesis,WikiPathways
+Transcriptional regulation of white adipocyte differentiation,Reactome,Part Of,White fat cell differentiation,WikiPathways
+Triglyceride biosynthesis,Reactome,Equivalent,Triacylglyceride Synthesis,WikiPathways
+tRNA Aminoacylation,Reactome,Part Of,Aminoacyl-tRNA biosynthesis,KEGG
+Ub-specific processing proteases,Reactome,Part Of,Proteasome,KEGG
+Urea cycle,Reactome,Part Of,Urea cycle and metabolism of amino groups,WikiPathways
+Vitamin B5 (pantothenate) metabolism,Reactome,Part Of,Pantothenate and CoA biosynthesis,KEGG
+Vitamin D (calciferol) metabolism,Reactome,Equivalent,Vitamin D Metabolism,WikiPathways
+WNT mediated activation of DVL,Reactome,Part Of,Wnt signaling pathway,KEGG
+Zinc efflux and compartmentalization by the SLC30 family,Reactome,Part Of,Zinc homeostasis,WikiPathways
+Zinc influx into cells by the SLC39 gene family,Reactome,Part Of,Zinc homeostasis,WikiPathways
+Zinc transporters,Reactome,Part Of,Zinc homeostasis,WikiPathways
+Alanine and aspartate metabolism,WikiPathways,Part Of,"Alanine, aspartate and glutamate metabolism",KEGG
+Alanine and aspartate metabolism,WikiPathways,Part Of,Metabolism of amino acids and derivatives,Reactome
+Amino Acid metabolism,WikiPathways,Part Of,Metabolism of amino acids and derivatives,Reactome
+Apoptosis Modulation and Signaling,WikiPathways,Part Of,Apoptosis,KEGG
+Apoptosis Modulation by HSP70,WikiPathways,Part Of,Apoptosis,KEGG
+Apoptosis Modulation by HSP70,WikiPathways,Part Of,Apoptotic factor-mediated response,Reactome
+Apoptosis Modulation by HSP70,WikiPathways,Part Of,Programmed Cell Death,Reactome
+B Cell Receptor Signaling Pathway,WikiPathways,Part Of,Adaptive Immune System,Reactome
+Bladder Cancer,WikiPathways,Part Of,Pathways in cancer,KEGG
+Cytoplasmic Ribosomal Proteins,WikiPathways,Part Of,Ribosome,KEGG
+Cytosine methylation,WikiPathways,Part Of,DNA methylation,Reactome
+Cytosine methylation,WikiPathways,Part Of,Methylation,Reactome
+Differentiation of white and brown adipocyte,WikiPathways,Part Of,Developmental Biology,Reactome
+Dual hijack model of Vif in HIV infection,WikiPathways,Part Of,HIV Infection,Reactome
+Endothelin Pathways,WikiPathways,Part Of,Vascular smooth muscle contraction,KEGG
+Eukaryotic Transcription Initiation,WikiPathways,Part Of,Basal transcription factors,KEGG
+Fas Ligand (FasL) pathway and Stress induction of Heat Shock Proteins (HSP) regulation,WikiPathways,Part Of,Programmed Cell Death,Reactome
+Fatty Acid Beta Oxidation,WikiPathways,Part Of,Fatty acid metabolism,KEGG
+Fatty Acid Beta Oxidation,WikiPathways,Part Of,Fatty acid metabolism,Reactome
+Fatty Acid Beta Oxidation,WikiPathways,Part Of,Mitochondrial Fatty Acid Beta-Oxidation,Reactome
+Fatty Acid Beta Oxidation,WikiPathways,Part Of,Metabolism of lipids,Reactome
+Fatty Acid Biosynthesis,WikiPathways,Part Of,Fatty acid metabolism,KEGG
+Fatty Acid Biosynthesis,WikiPathways,Part Of,Metabolism of lipids,Reactome
+Fatty Acid Biosynthesis,WikiPathways,Part Of,Fatty acid metabolism,Reactome
+G1 to S cell cycle control,WikiPathways,Part Of,Cell cycle,KEGG
+G1 to S cell cycle control,WikiPathways,Part Of,Cell Cycle,Reactome
+G1 to S cell cycle control,WikiPathways,Part Of,"Cell Cycle, Mitotic",Reactome
+Glial Cell Differentiation,WikiPathways,Part Of,Developmental Biology,Reactome
+Glucocorticoid and Mineralcorticoid Metabolism,WikiPathways,Part Of,Steroid hormone biosynthesis,KEGG
+Glucocorticoid and Mineralcorticoid Metabolism,WikiPathways,Part Of,Metabolism of steroid hormones,Reactome
+Glucocorticoid and Mineralcorticoid Metabolism,WikiPathways,Part Of,Metabolism of steroids,Reactome
+Glycerophospholipid Biosynthetic Pathway,WikiPathways,Part Of,Glycerolipid metabolism,KEGG
+Glycerophospholipid Biosynthetic Pathway,WikiPathways,Part Of,Glycerophospholipid metabolism,KEGG
+HIF1A and PPARG regulation of glycolysis,WikiPathways,Part Of,Glycolysis,Reactome
+HIF1A and PPARG regulation of glycolysis,WikiPathways,Part Of,Glucose metabolism,Reactome
+HIF1A and PPARG regulation of glycolysis,WikiPathways,Part Of,Metabolism of carbohydrates,Reactome
+Homologous recombination,WikiPathways,Part Of,Nucleotide excision repair,KEGG
+Imatinib and Chronic Myeloid Leukemia,WikiPathways,Part Of,Chronic myeloid leukemia,KEGG
+Integrated Cancer Pathway,WikiPathways,Part Of,Pathways in cancer,KEGG
+Interferon type I signaling pathways,WikiPathways,Part Of,Adaptive Immune System,Reactome
+Kennedy pathway from Sphingolipids,WikiPathways,Part Of,Synthesis of PC,Reactome
+Kennedy pathway from Sphingolipids,WikiPathways,Part Of,Metabolism of lipids,Reactome
+Kennedy pathway from Sphingolipids,WikiPathways,Part Of,Sphingolipid metabolism,Reactome
+Leptin and adiponectin,WikiPathways,Part Of,Adipocytokine signaling pathway,KEGG
+Leptin and adiponectin,WikiPathways,Part Of,Signaling by Leptin,Reactome
+Leptin Insulin Overlap,WikiPathways,Part Of,Signaling by Leptin,Reactome
+MAPK Cascade,WikiPathways,Part Of,MAPK signaling pathway,KEGG
+MET in type 1 papillary renal cell carcinoma,WikiPathways,Part Of,Renal cell carcinoma,KEGG
+Metabolism of Spingolipids in ER and Golgi apparatus,WikiPathways,Part Of,Metabolism of lipids,Reactome
+Metabolism of Spingolipids in ER and Golgi apparatus,WikiPathways,Part Of,Sphingolipid metabolism,Reactome
+Methionine De Novo and Salvage Pathway,WikiPathways,Part Of,Cysteine and methionine metabolism,KEGG
+Mitochondrial Gene Expression,WikiPathways,Part Of,Organelle biogenesis and maintenance,Reactome
+Mitochondrial Gene Expression,WikiPathways,Part Of,Transcriptional activation of mitochondrial biogenesis,Reactome
+Monoamine GPCRs,WikiPathways,Part Of,Neuroactive ligand-receptor interaction,KEGG
+mRNA Processing,WikiPathways,Part Of,mRNA Splicing,Reactome
+mRNA Processing,WikiPathways,Part Of,Metabolism of RNA,Reactome
+Nanomaterial induced apoptosis,WikiPathways,Part Of,Apoptosis,KEGG
+Nicotine Activity on Dopaminergic Neurons,WikiPathways,Part Of,Neuronal System,Reactome
+Nicotine Activity on Dopaminergic Neurons,WikiPathways,Part Of,Dopamine receptors,Reactome
+Nuclear Receptors,WikiPathways,Part Of,Signaling by Nuclear Receptors,Reactome
+Nuclear Receptors,WikiPathways,Part Of,Nuclear Receptor transcription pathway,Reactome
+Nuclear Receptors in Lipid Metabolism and Toxicity,WikiPathways,Part Of,Metabolism of lipids,Reactome
+p38 MAPK Signaling Pathway,WikiPathways,Part Of,MAPK signaling pathway,KEGG
+PDGF Pathway,WikiPathways,Part Of,"Platelet activation, signaling and aggregation",Reactome
+PPAR Alpha Pathway,WikiPathways,Part Of,Metabolism of lipids,Reactome
+Prostaglandin Synthesis and Regulation,WikiPathways,Part Of,Metabolism of lipids,Reactome
+Robo4 and VEGF Signaling Pathways Crosstalk,WikiPathways,Part Of,VEGF signaling pathway,KEGG
+Signaling Pathways in Glioblastoma,WikiPathways,Part Of,Pathways in cancer,KEGG
+Steroid Biosynthesis,WikiPathways,Part Of,Metabolism of steroids,Reactome
+Steroid Biosynthesis,WikiPathways,Part Of,Metabolism of steroid hormones,Reactome
+Synaptic Vesicle Pathway,WikiPathways,Part Of,Neuronal System,Reactome
+TCA Cycle and Deficiency of Pyruvate Dehydrogenase complex (PDHc),WikiPathways,Part Of,Citrate cycle (TCA cycle),KEGG
+Transcription factor regulation in adipogenesis,WikiPathways,Part Of,Transcriptional regulation of white adipocyte differentiation,Reactome
+Transcriptional cascade regulating adipogenesis,WikiPathways,Part Of,Transcriptional regulation of white adipocyte differentiation,Reactome
+Translation Factors,WikiPathways,Part Of,Eukaryotic Translation Initiation,Reactome
+Translation Factors,WikiPathways,Part Of,Translation,Reactome
+Triacylglyceride Synthesis,WikiPathways,Part Of,Glycerolipid metabolism,KEGG
+Triacylglyceride Synthesis,WikiPathways,Part Of,Glycerophospholipid metabolism,KEGG
+Urea cycle and metabolism of amino groups,WikiPathways,Part Of,Metabolism of amino acids and derivatives,Reactome
+Vitamin A and Carotenoid Metabolism,WikiPathways,Part Of,Metabolism of vitamins and cofactors,Reactome
+White fat cell differentiation,WikiPathways,Part Of,Developmental Biology,Reactome
+Wnt Signaling Pathway and Pluripotency,WikiPathways,Part Of,Wnt signaling pathway,KEGG
