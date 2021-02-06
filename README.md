@@ -45,7 +45,7 @@ This module uses the fgsea package. [4]
 #### optional command line arguments
 Type `plot-all` after `arg3` to plot all pathways. Separate the two arguments with a space. If this option is chosen, three .pdf files containing pathways presented by each database will be outputted. This process may take a long time depending on the speed of your device, so please do not try to open the .pdf files before this message appears in your terminal window: "done."
 
-This Rscript will output three .csv files regardless of whether you choose to plot the pathways or not. These files are inputs for the next script, so please do not delete them. It is also suggested that you not change the names or location of these files, as it may complicate the next command.
+This R script will output three .csv files regardless of whether you choose to plot the pathways or not. These files are inputs for the next script, so please do not delete them. It is also suggested that you not change the names or location of these files, as it may complicate the next command.
 
 -------------------------------
 
@@ -56,11 +56,11 @@ This module utilizes Compath's mapping catalog [5]. A slightly modified version 
 #### command line
 `python3 common_pathways.py`
 #### optional command line arguments
-* This script will automatically output 2 .csv files with pathway relations, if you do not want the output, please add the argument `n`.
 * If you changed the name of any input file (.csv files from the last script), please add the full path of the file as an argument. Please enter the paths in the file order: KEGG, Reactome, WikiPathways.
-    * If you choose to use these arguments, please enter either `n` or `''` for the last argument.
     * If you did not change the name to the first and/or second file, please enter `''` as a placeholder.
 Remember to separate all arguments with spaces.
+
+This Python script will output two .csv files. They are, respectively, collections of upregulated and downregulated pathways that are presented by two or three databases.
 
 ## Acknowledgements
 R. Fu, Y. Bai and Q. -E. Wang, "Computational identification of key pathways and differentially-expressed gene signatures in ovarian cancer stem cells," 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Seoul, Korea (South), 2020, pp. 1843-1848, doi:10.1109/BIBM49941.2020.9313416.
