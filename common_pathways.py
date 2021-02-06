@@ -2,22 +2,22 @@ import pandas as pd
 import sys
 
 #preset command line arguments
-if len(sys.argv)<=2: #inputs
+if len(sys.argv)<=1: #inputs
     x = "KEGG_results.csv"
     y = "Reactome_results.csv"
     z = "WikiPathways_results.csv"
-elif len(sys.argv)<=3:
-    x = sys.argv[2]
+elif len(sys.argv)<=2:
+    x = sys.argv[1]
     y = "Reactome_results.csv"
     z = "WikiPathways_results.csv"
-elif len(sys.argv)<=4:
-    x = sys.argv[2]
-    y = sys.argv[3]
+elif len(sys.argv)<=3:
+    x = sys.argv[1]
+    y = sys.argv[2]
     z = "WikiPathways_results.csv"
 else:
-    x = sys.argv[2]
-    y = sys.argv[3]
-    z = sys.argv[4]
+    x = sys.argv[1]
+    y = sys.argv[2]
+    z = sys.argv[3]
 
 #import data
 map_cat = pd.read_csv(r'./input_files/mapping_catalog.csv') #mapping catalog
@@ -91,7 +91,7 @@ for index, row in map_cat.iterrows():
          row['Database 2']=='Reactome' and row['Pathway 2'] in Reactome_pos) or
         #KEGG & WikiPathways
         (row['Database 1']=='KEGG' and row['Pathway 1'] in KEGG_pos and
-         row['Database 2']=='WIkiPathways' and row['Pathway 2'] in WikiPathways_pos) or
+         row['Database 2']=='WikiPathways' and row['Pathway 2'] in WikiPathways_pos) or
         #Reactome & KEGG
         (row['Database 1']=='Reactome' and row['Pathway 1'] in Reactome_pos and
          row['Database 2']=='KEGG' and row['Pathway 2'] in KEGG_pos) or
@@ -118,7 +118,7 @@ for index, row in map_cat.iterrows():
          row['Database 2']=='Reactome' and row['Pathway 2'] in Reactome_neg) or
         #KEGG & WikiPathways
         (row['Database 1']=='KEGG' and row['Pathway 1'] in KEGG_neg and
-         row['Database 2']=='WIkiPathways' and row['Pathway 2'] in WikiPathways_neg) or
+         row['Database 2']=='WikiPathways' and row['Pathway 2'] in WikiPathways_neg) or
         #Reactome & KEGG
         (row['Database 1']=='Reactome' and row['Pathway 1'] in Reactome_neg and
          row['Database 2']=='KEGG' and row['Pathway 2'] in KEGG_neg) or
@@ -137,6 +137,5 @@ for index, row in map_cat.iterrows():
     line+=1
 
 #output result csv
-if (len(sys.argv)<=1 or sys.argv[1]!='n'):
-    result_pos.to_csv('upregulated_common_pathways.csv', index=False)
-    result_neg.to_csv('downregulated_common_pathways.csv', index=False)
+result_pos.to_csv('upregulated_common_pathways.csv', index=False)
+result_neg.to_csv('downregulated_common_pathways.csv', index=False)
