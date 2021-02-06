@@ -26,7 +26,7 @@ importK = pd.read_csv(x)
 KEGG = list(dict.fromkeys(importK["pathway"])) #KEGG
 importR = pd.read_csv(y)
 Reactome = list(dict.fromkeys(importR["pathway"])) #Reactome
-importW = pd.read_csv(y)
+importW = pd.read_csv(z)
 WikiPathways = list(dict.fromkeys(importW["pathway"])) #WikiPathways
 
 #change pathway name format for map_cat so it matches with import files
