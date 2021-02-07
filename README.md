@@ -1,18 +1,18 @@
 # README
 This pipeline does gene set enrichment analysis for an input dataset using three pathway databases –– KEGG[1], Reactome[2], and WikiPathways[3], and it identifies pathways that are presented by multiple databases.
 
-## Introduction
+## About Super3Path
 Gene set enrichment analysis (GSEA) is a common method in computational biology. GSEA identifies enriched pathways in certain cell populations or under certain conditions, and it is important to our understanding of many illnesses, as well as how to treat them. While there are many pathway databases that can be used in GSEA, most studies fail to analyze results from multiple pathway databases because 1) the process is tedious 2) it is hard to categorize pathways based on the databases since different databases often name one biological pathway differently.
 
 Super3Path streamlines the process of using three databases for GSEA, and shows users pathways presented by multiple databases, so that users do not have to sort through everything themselves.
 
 ## Installation
-* You can download Super3Path by clicking the green Code" button on the webpage, and then selecting "Download ZIP".
+* You can download Super3Path by clicking the green "Code" button on the webpage, and then selecting "Download ZIP".
 * To download using bash, simply type `git clone` into terminal and the url which can be found by clicking the "Code" button.
 
 ## Requirements
 * R 4.0.3 or newer
-    * other packages will be automatically installed by the first module, download_packages.R
+    * R packages will be automatically installed by the first module, download_packages.R
 * Python 3.8 or newer
     * Pandas ([installation guide here](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html))
 
@@ -65,10 +65,14 @@ This Python script will output two .csv files. They are, respectively, collectio
 ## Samples
 This package includes two test samples in the samples folder. The tests were done using public datasets from the Gene Expression Omnibus, GSE104975 [6] and GSE156435[7].
 
-## Acknowledgements
-R. Fu, Y. Bai and Q. -E. Wang, "Computational identification of key pathways and differentially-expressed gene signatures in ovarian cancer stem cells," 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Seoul, Korea (South), 2020, pp. 1843-1848, doi:10.1109/BIBM49941.2020.9313416.
+## Contact
+Renata Fu - renatafu2333@gmail.com
+
+Project link: https://github.com/Renata-Fu/Super3Path
 
 ## Citations
+R. Fu, Y. Bai and Q. -E. Wang, "Computational identification of key pathways and differentially-expressed gene signatures in ovarian cancer stem cells," 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Seoul, Korea (South), 2020, pp. 1843-1848, https://doi.org/10.1109/BIBM49941.2020.9313416.
+
 Kanehisa, M., Furumichi, M., Sato, Y., Ishiguro-Watanabe, M., & Tanabe, M. (2020). KEGG: Integrating viruses and cellular organisms. Nucleic Acids Research, 49(D1). https://doi.org/10.1093/nar/gkaa970
 
 Jassal, B., Matthews, L., Viteri, G., Gong, C., Lorente, P., Fabregat, A., . . . D’Eustachio, P. (2019). The reactome pathway knowledgebase. Nucleic Acids Research. https://doi.org/10.1093/nar/gkz1031
