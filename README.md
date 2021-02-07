@@ -67,6 +67,7 @@ This package includes two test samples in the [samples](https://github.com/Renat
 
 ## Contact
 Renata Fu - renatafu2333@gmail.com
+Yongsheng Bai - yongshengbaicool@gmail.com
 
 Project link: https://github.com/Renata-Fu/Super3Path
 
