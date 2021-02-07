@@ -65,6 +65,9 @@ This Python script will output two .csv files. They are, respectively, collectio
 ## Test Datasets
 This package includes two test samples in the [samples](https://github.com/Renata-Fu/Super3Path/tree/master/samples) folder. The tests were done using public datasets from the Gene Expression Omnibus, GSE104975 [6] and GSE156435[7].
 
+## License
+Distributed under the MIT License. See [LICENSE](https://github.com/Renata-Fu/Super3Path/blob/master/LICENSE) for more information.
+
 ## Contact
 Renata Fu - renatafu2333@gmail.com
 Yongsheng Bai - yongshengbaicool@gmail.com
