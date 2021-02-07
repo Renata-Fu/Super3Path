@@ -62,7 +62,7 @@ Remember to separate all arguments with spaces.
 
 This Python script will output two .csv files. They are, respectively, collections of upregulated and downregulated pathways that are presented by two or three databases.
 
-## samples
+## Samples
 This package includes two test samples in the samples folder. The tests were done using public datasets from the Gene Expression Omnibus, GSE104975 [6] and GSE156435[7].
 
 ## Acknowledgements
