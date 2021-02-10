@@ -17,7 +17,7 @@ Super3Path streamlines the process of using three databases for GSEA, and shows 
     * Pandas ([installation guide here](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html))
 
 ## Usage
-On any computer with installed software (e.g. Anaconda) supporting terminal application, change directory to "Super3Path".
+On any terminal system (e.g. Mac terminal, [Windows terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)), change directory to "Super3Path".
 ### module 1: download_packages.R
 This module downloads necessary R packages for the next module. If a package is already installed, it will be updated.
 #### command line
