@@ -6,26 +6,30 @@ Gene set enrichment analysis (GSEA) is a common method in computational biology.
 
 Super3Path streamlines the process of using three databases for GSEA, and shows users pathways presented by multiple databases, so that users do not have to sort through everything themselves.
 
-## Installation
-* You can download Super3Path by clicking the green "Code" button on the webpage, and then selecting "Download ZIP".
-* To download using bash, simply type `git clone` into terminal and the url which can be found by clicking the "Code" button.
-
 ## Requirements
 * [R 4.0.3 or newer](https://www.r-project.org/)
-    * R packages will be automatically installed by the first module, download_packages.R
+    * R packages will be automatically installed by the first module (download_packages.R)
 * [Python 3.8 or newer](https://www.python.org/downloads/)
     * Pandas ([installation guide here](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html))
 
+## Installation
+* Users can download Super3Path by clicking the green "Code" button on the webpage, and then selecting "Download ZIP".
+* To download using bash, simply type `git clone` into terminal followed by the url, which can be found by clicking the "Code" button.
+
 ## Usage
-On Unix/Linux, or any platform supporting terminal (e.g. Mac terminal, [Windows terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)), change directory to "Super3Path".
-### module 1: download_packages.R
+The package must be run on the command line on Unix/Linux, or any platform supporting terminal (e.g. Mac terminal, [Windows terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)). 
+1. Download Super3Path (with the required versions of R and Python installed)
+2. Change directory to "Super3Path"
+3. Run the modules as instructed below
+
+### module 1 (download_packages.R)
 This module downloads necessary R packages for the next module. If a package is already installed, it will be updated.
 #### command line
 `Rscript download_packages.R`
 
 -------------------------------
 
-### module 2: GSEA_3databases.R
+### module 2 (GSEA_3databases.R)
 This module does gene set enrichment analysis for a gene expression profile.
 It uses pathway databases KEGG, Reactome, and WikiPathways (.gmt files provided in the input_files folder of this package).
 
@@ -49,7 +53,7 @@ This R script will output three .csv files regardless of whether you choose to p
 
 -------------------------------
 
-### module 3: common_pathways.py
+### module 3 (common_pathways.py)
 This module finds pathways common to 2 or more databases. Pathways have different names in different databases, but may represent the same biological process.
 
 This module utilizes Compath's mapping catalog [5]. A slightly modified version of this catalog can be found in the input_files folder.
