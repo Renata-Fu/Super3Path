@@ -11,9 +11,9 @@ Super3Path streamlines the process of using three databases for GSEA, and shows 
 * To download using bash, simply type `git clone` into terminal and the url which can be found by clicking the "Code" button.
 
 ## Requirements
-* R 4.0.3 or newer
+* [R 4.0.3 or newer](https://www.r-project.org/)
     * R packages will be automatically installed by the first module, download_packages.R
-* Python 3.8 or newer
+* [Python 3.8 or newer](https://www.python.org/downloads/)
     * Pandas ([installation guide here](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html))
 
 ## Usage
