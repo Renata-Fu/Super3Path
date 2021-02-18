@@ -22,6 +22,8 @@ The package must be run on the command line on Unix/Linux, or any platform suppo
 2. Change directory to "Super3Path"
 3. Run the modules as instructed below
 
+-------------------------------
+
 ### module 1 (download_packages.R)
 This module downloads necessary R packages for the next module. If a package is already installed, it will be updated.
 #### command line
@@ -31,7 +33,7 @@ This module downloads necessary R packages for the next module. If a package is 
 
 ### module 2 (GSEA_3databases.R)
 This module does gene set enrichment analysis for a gene expression profile.
-It uses pathway databases KEGG, Reactome, and WikiPathways (.gmt files provided in the input_files folder of this package).
+It uses pathway databases KEGG, Reactome, and WikiPathways (.gmt files provided in the input_files folder in Super3Path).
 
 This module uses the fgsea package. [4]
 #### user input
@@ -46,7 +48,7 @@ This module uses the fgsea package. [4]
 * `arg1`: full path to your input file
 * `arg2`: index of the log fold change (logFC) column
 * `arg3`: index of the standard gene name column
-#### optional command line arguments
+#### optional command line argument
 Type `plot-all` after `arg3` to plot all pathways. Separate the two arguments with a space. If this option is chosen, three .pdf files containing pathways presented by each database will be outputted. This process may take a long time depending on the speed of your device, so please do not try to open the .pdf files before this message appears in your terminal window: "done."
 
 This R script will output three .csv files regardless of whether you choose to plot the pathways or not. These files are inputs for the next script, so please do not delete them. It is also suggested that you not change the names or location of these files, as it may complicate the next command.
@@ -54,7 +56,7 @@ This R script will output three .csv files regardless of whether you choose to p
 -------------------------------
 
 ### module 3 (common_pathways.py)
-This module finds pathways common to 2 or more databases. Pathways have different names in different databases, but may represent the same biological process.
+This module finds pathways common to 2 or more databases. Pathways may have different names in different databases, but may represent the same biological process.
 
 This module utilizes Compath's mapping catalog [5]. A slightly modified version of this catalog can be found in the input_files folder.
 #### command line
