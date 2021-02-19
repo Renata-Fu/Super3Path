@@ -2,39 +2,39 @@ import pandas as pd
 import sys
 
 #preset command line arguments
-if len(sys.argv)<=1: #inputs
+if len(sys.argv)<=1: #no inputs
     x = "KEGG_results.csv"
     y = "Reactome_results.csv"
     z = "WikiPathways_results.csv"
-elif len(sys.argv)<=2:
+elif len(sys.argv)<=2: #one input
     x = sys.argv[1]
     y = "Reactome_results.csv"
     z = "WikiPathways_results.csv"
-elif len(sys.argv)<=3:
+elif len(sys.argv)<=3: #two inputs
     x = sys.argv[1]
     y = sys.argv[2]
     z = "WikiPathways_results.csv"
-else:
+else: #three inputs
     x = sys.argv[1]
     y = sys.argv[2]
     z = sys.argv[3]
 
 #import data
-map_cat = pd.read_csv(r'./input_files/mapping_catalog.csv') #mapping catalog
-map_cat_export = map_cat.copy(deep=True) #mapping catalog
-importK = pd.read_csv(x)
-KEGG = list(dict.fromkeys(importK["pathway"])) #KEGG
-importR = pd.read_csv(y)
-Reactome = list(dict.fromkeys(importR["pathway"])) #Reactome
-importW = pd.read_csv(z)
-WikiPathways = list(dict.fromkeys(importW["pathway"])) #WikiPathways
+map_cat = pd.read_csv(r'./input_files/mapping_catalog.csv') #mapping catalog, name format to be changed
+map_cat_export = map_cat.copy(deep=True) #mapping catalog, name format kept
+importK = pd.read_csv(x, usecols=('pathway', 'NES'))
+KEGG = dict(importK.values) #KEGG dict (pathway:NES)
+importR = pd.read_csv(y, usecols=('pathway', 'NES'))
+Reactome = dict(importR.values) #Reactome dict (pathway:NES)
+importW = pd.read_csv(z, usecols=('pathway', 'NES'))
+WikiPathways = dict(importW.values) #WikiPathways dict (pathway:NES)
 
-#change pathway name format for map_cat so it matches with import files
+#change pathway name format for map_cat so it matches with pathway lists
 def standard_name(x):
     x = x.upper() #uppercase everything
-    x = x.replace(' ', '_') #change [spaces, dashes] into underscore
+    x = x.replace(' ', '_') #change spaces, dashes into underscore
     x = x.replace('-', '_')
-    x = x.replace(',', '') #delete [parentheses, commas, single quotation marks]
+    x = x.replace(',', '') #delete parentheses, commas, single quotation marks
     x = x.replace('\'', '')
     x = x.replace('(', '')
     x = x.replace(')', '')
@@ -52,90 +52,57 @@ for index, row in map_cat.iterrows(): #change name and append prefix based on da
             row['Pathway 2'] = standard_name(row['Pathway 2'])
     i+=1
 
-#sort pathways based on normalized enrichment scores
-#KEGG
-KEGG_pos = []
-KEGG_neg = []
-for index, row in importK.iterrows():
-    if row['NES'] >= 0:
-        KEGG_pos.append(row['pathway']) #building positive KEGG pathways list
-    else:
-        KEGG_neg.append(row['pathway']) #building negative KEGG pathways list
-#Reactome
-Reactome_pos = []
-Reactome_neg = []
-for index, row in importR.iterrows():
-    if row['NES'] >= 0:
-        Reactome_pos.append(row['pathway']) #building positive Reactome pathways list
-    else:
-        Reactome_neg.append(row['pathway']) #building negative Reactome pathways list
-#WikiPathways
-WikiPathways_pos = []
-WikiPathways_neg = []
-for index, row in importW.iterrows():
-    if row['NES'] >= 0:
-        WikiPathways_pos.append(row['pathway']) #building positive WikiPathways pathways list
-    else:
-        WikiPathways_neg.append(row['pathway']) #building positive WikiPathways pathways list
-
 #create empty dataframe for exporting result
-result_pos = pd.DataFrame(columns=['Pathway 1', 'Database 1', 'Relation', 'Pathway 2', 'Database 2'])
-result_neg = pd.DataFrame(columns=['Pathway 1', 'Database 1', 'Relation', 'Pathway 2', 'Database 2'])
-
-#add to positive results
-line = 0
+result = pd.DataFrame(columns=['Pathway 1', 'NES 1', 'Database 1', 'Relation', 'Pathway 2', 'NES 2', 'Database 2'])
+#add to results
+line = 0 #keeps track of line number for map_cat_export
 for index, row in map_cat.iterrows():
     mapping = list(map_cat_export.loc[line])
-    if (#KEGG & Reactome
-        (row['Database 1']=='KEGG' and row['Pathway 1'] in KEGG_pos and
-         row['Database 2']=='Reactome' and row['Pathway 2'] in Reactome_pos) or
-        #KEGG & WikiPathways
-        (row['Database 1']=='KEGG' and row['Pathway 1'] in KEGG_pos and
-         row['Database 2']=='WikiPathways' and row['Pathway 2'] in WikiPathways_pos) or
-        #Reactome & KEGG
-        (row['Database 1']=='Reactome' and row['Pathway 1'] in Reactome_pos and
-         row['Database 2']=='KEGG' and row['Pathway 2'] in KEGG_pos) or
-        #Reactome & WikiPathways
-        (row['Database 1']=='Reactome' and row['Pathway 1'] in Reactome_pos and
-         row['Database 2']=='WikiPathways' and row['Pathway 2'] in WikiPathways_pos) or
-        #WikiPathways & KEGG
-        (row['Database 1']=='WikiPathways' and row['Pathway 1'] in WikiPathways_pos and
-         row['Database 2']=='KEGG' and row['Pathway 2'] in KEGG_pos) or
-        #WikiPathways & Reactome
-        (row['Database 1']=='WikiPathways' and row['Pathway 1'] in WikiPathways_pos and
-         row['Database 2']=='Reactome' and row['Pathway 2'] in Reactome_pos)):
-        #if satisfy any of the above, add a row to the result DataFrame
-        append_row = pd.Series(mapping, index=result_pos.columns)
-        result_pos = result_pos.append(append_row, ignore_index=True)
-    line+=1
-
-#add to negative results
-line = 0
-for index, row in map_cat.iterrows():
-    mapping = list(map_cat_export.loc[line])
-    if (#KEGG & Reactome
-        (row['Database 1']=='KEGG' and row['Pathway 1'] in KEGG_neg and
-         row['Database 2']=='Reactome' and row['Pathway 2'] in Reactome_neg) or
-        #KEGG & WikiPathways
-        (row['Database 1']=='KEGG' and row['Pathway 1'] in KEGG_neg and
-         row['Database 2']=='WikiPathways' and row['Pathway 2'] in WikiPathways_neg) or
-        #Reactome & KEGG
-        (row['Database 1']=='Reactome' and row['Pathway 1'] in Reactome_neg and
-         row['Database 2']=='KEGG' and row['Pathway 2'] in KEGG_neg) or
-        #Reactome & WikiPathways
-        (row['Database 1']=='Reactome' and row['Pathway 1'] in Reactome_neg and
-         row['Database 2']=='WikiPathways' and row['Pathway 2'] in WikiPathways_neg) or
-        #WikiPathways & KEGG
-        (row['Database 1']=='WikiPathways' and row['Pathway 1'] in WikiPathways_neg and
-         row['Database 2']=='KEGG' and row['Pathway 2'] in KEGG_neg) or
-        #WikiPathways & Reactome
-        (row['Database 1']=='WikiPathways' and row['Pathway 1'] in WikiPathways_neg and
-         row['Database 2']=='Reactome' and row['Pathway 2'] in Reactome_neg)):
-        #if satisfy any of the above, add a row to the result DataFrame
-        append_row = pd.Series(mapping, index=result_pos.columns)
-        result_neg = result_neg.append(append_row, ignore_index=True)
+    x = row['Pathway 1']
+    y = row['Pathway 2']
+    #KEGG and Reactome
+    if (row['Database 1']=='KEGG' and x in KEGG and
+       row['Database 2']=='Reactome' and y in Reactome):
+       result = result.append({'Pathway 1':mapping[0], 'Pathway 2':mapping[3],
+                               'NES 1':KEGG[x], 'NES 2':Reactome[y], 'Relation':row['Relation'],
+                               'Database 1':row['Database 1'], 'Database 2':row['Database 2'],
+                               }, ignore_index=True)
+    #KEGG and WikiPathways
+    elif (row['Database 1']=='KEGG' and x in KEGG and
+          row['Database 2']=='WikiPathways' and y in WikiPathways):
+       result = result.append({'Pathway 1':mapping[0], 'Pathway 2':mapping[3],
+                               'NES 1':KEGG[x], 'NES 2':WikiPathways[y], 'Relation':row['Relation'],
+                               'Database 1':row['Database 1'], 'Database 2':row['Database 2'],
+                               }, ignore_index=True)
+    #Reactome and KEGG
+    if (row['Database 1']=='Reactome' and x in Reactome and
+       row['Database 2']=='KEGG' and y in KEGG):
+       result = result.append({'Pathway 1':mapping[0], 'Pathway 2':mapping[3],
+                               'NES 1':Reactome[x], 'NES 2':KEGG[y], 'Relation':row['Relation'],
+                               'Database 1':row['Database 1'], 'Database 2':row['Database 2'],
+                               }, ignore_index=True)
+    #Reactome and WikiPathways
+    elif (row['Database 1']=='Reactome' and x in Reactome and
+          row['Database 2']=='WikiPathways' and y in WikiPathways):
+       result = result.append({'Pathway 1':mapping[0], 'Pathway 2':mapping[3],
+                               'NES 1':Reactome[x], 'NES 2':WikiPathways[y], 'Relation':row['Relation'],
+                               'Database 1':row['Database 1'], 'Database 2':row['Database 2'],
+                               }, ignore_index=True)
+    #WikiPathways and KEGG
+    if (row['Database 1']=='WikiPathways' and x in WikiPathways and
+       row['Database 2']=='KEGG' and y in KEGG):
+       result = result.append({'Pathway 1':mapping[0], 'Pathway 2':mapping[3],
+                               'NES 1':WikiPathways[x], 'NES 2':KEGG[y], 'Relation':row['Relation'],
+                               'Database 1':row['Database 1'], 'Database 2':row['Database 2'],
+                               }, ignore_index=True)
+    #WikiPathways and Reactome
+    if (row['Database 1']=='WikiPathways' and x in WikiPathways and
+       row['Database 2']=='Reactome' and y in Reactome):
+       result = result.append({'Pathway 1':mapping[0], 'Pathway 2':mapping[3],
+                               'NES 1':WikiPathways[x], 'NES 2':Reactome[y], 'Relation':row['Relation'],
+                               'Database 1':row['Database 1'], 'Database 2':row['Database 2'],
+                               }, ignore_index=True)
     line+=1
 
 #output result csv
-result_pos.to_csv('upregulated_common_pathways.csv', index=False)
-result_neg.to_csv('downregulated_common_pathways.csv', index=False)
+result.to_csv('common_pathways.csv', index=False)
