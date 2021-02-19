@@ -66,7 +66,7 @@ This module utilizes Compath's mapping catalog [5]. A slightly modified version 
     * If you did not change the name to the first and/or second file, please enter `''` as a placeholder.
 Remember to separate all arguments with spaces.
 
-This Python script will output two .csv files. They are, respectively, collections of upregulated and downregulated pathways that are presented by two or three databases.
+This Python script will output a file called common_pathways.csv. It is a collection of pathways that are presented by two or three databases. "Equivalent" relations indicate that the pathways are identical between two databases, and "Part Of" relations indicate that the pathway on the left is a part of the pathway on the right. normalized enrichment scores (NES) are shown for each pathway.
 
 ## Test Datasets
 This package includes two test samples in the [test_examples](https://github.com/Renata-Fu/Super3Path/tree/master/samples) folder. The tests were done using public datasets from the Gene Expression Omnibus, GSE104975 [6] and GSE156435[7].
