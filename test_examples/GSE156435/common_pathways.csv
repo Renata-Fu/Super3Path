@@ -1,0 +1,611 @@
+Pathway 1,NES 1,Database 1,Relation,Pathway 2,NES 2,Database 2
+Adherens junction,2.05716146474244,KEGG,Equivalent,Adherens junctions interactions,0.772764685871517,Reactome
+"Alanine, aspartate and glutamate metabolism",1.08763345470663,KEGG,Part Of,Amino Acid metabolism,1.64599709036103,WikiPathways
+"Alanine, aspartate and glutamate metabolism",1.08763345470663,KEGG,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+Allograft rejection,-1.25032159176573,KEGG,Equivalent,Allograft Rejection,-1.22719489099323,WikiPathways
+Allograft rejection,-1.25032159176573,KEGG,Part Of,Adaptive Immune System,1.59543718210118,Reactome
+alpha-Linolenic acid metabolism,-0.932453496322404,KEGG,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+Amyotrophic lateral sclerosis (ALS),-0.977889978426561,KEGG,Equivalent,Amyotrophic lateral sclerosis (ALS),-0.767457533772694,WikiPathways
+Antigen processing and presentation,1.13816770850104,KEGG,Equivalent,Antigen processing-Cross presentation,-1.12429390068454,Reactome
+Apoptosis,1.1773387591651,KEGG,Equivalent,Apoptosis,1.26134729298148,WikiPathways
+Arachidonic acid metabolism,-1.25848380906172,KEGG,Equivalent,Arachidonic acid metabolism,-0.875178931322911,Reactome
+Arginine and proline metabolism,1.00254639696768,KEGG,Part Of,Amino Acid metabolism,1.64599709036103,WikiPathways
+Arginine and proline metabolism,1.00254639696768,KEGG,Part Of,Urea cycle and metabolism of amino groups,1.20404243870453,WikiPathways
+Arginine and proline metabolism,1.00254639696768,KEGG,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+Arrhythmogenic right ventricular cardiomyopathy (ARVC),1.26375458290785,KEGG,Equivalent,Arrhythmogenic Right Ventricular Cardiomyopathy,1.25573345312626,WikiPathways
+B cell receptor signaling pathway,1.08162039739975,KEGG,Equivalent,B Cell Receptor Signaling Pathway,1.10246874872235,WikiPathways
+B cell receptor signaling pathway,1.08162039739975,KEGG,Part Of,Adaptive Immune System,1.59543718210118,Reactome
+Basal transcription factors,1.92884425147475,KEGG,Part Of,RNA Polymerase II Transcription,2.57213878283152,Reactome
+Basal transcription factors,1.92884425147475,KEGG,Part Of,Metabolism of RNA,2.2366875057622,Reactome
+Base excision repair,1.2044036100707,KEGG,Equivalent,Base Excision Repair,1.32841955881131,Reactome
+beta-Alanine metabolism,1.10681952010602,KEGG,Part Of,Urea cycle and metabolism of amino groups,1.20404243870453,WikiPathways
+beta-Alanine metabolism,1.10681952010602,KEGG,Part Of,Biogenic Amine Synthesis,-0.591718337592517,WikiPathways
+beta-Alanine metabolism,1.10681952010602,KEGG,Part Of,Alanine and aspartate metabolism,0.927230455180773,WikiPathways
+beta-Alanine metabolism,1.10681952010602,KEGG,Part Of,Amino Acid metabolism,1.64599709036103,WikiPathways
+beta-Alanine metabolism,1.10681952010602,KEGG,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+Biosynthesis of unsaturated fatty acids,0.901154732977127,KEGG,Part Of,Fatty Acid Biosynthesis,1.3894689358384,WikiPathways
+Biosynthesis of unsaturated fatty acids,0.901154732977127,KEGG,Part Of,Fatty acid metabolism,1.15129338681017,Reactome
+Biosynthesis of unsaturated fatty acids,0.901154732977127,KEGG,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+Bladder cancer,-1.20516238871638,KEGG,Equivalent,Bladder Cancer,1.10997121158376,WikiPathways
+Cardiac muscle contraction,1.16198646065278,KEGG,Part Of,Muscle contraction,1.24828135709966,Reactome
+Cell adhesion molecules (CAMs),-0.936511322566077,KEGG,Part Of,Cell-cell junction organization,-0.601950241637137,Reactome
+Cell adhesion molecules (CAMs),-0.936511322566077,KEGG,Part Of,Tight junction interactions,-0.829126991448965,Reactome
+Cell cycle,2.52433626512743,KEGG,Equivalent,Cell Cycle,2.46000924885952,WikiPathways
+Cell cycle,2.52433626512743,KEGG,Equivalent,Cell Cycle,2.49186106705181,Reactome
+Chemokine signaling pathway,-0.882688052782622,KEGG,Equivalent,Chemokine signaling pathway,0.856564661828542,WikiPathways
+Complement and coagulation cascades,-1.62724784548331,KEGG,Equivalent,Complement and Coagulation Cascades,-1.51208765743948,WikiPathways
+Cysteine and methionine metabolism,1.62342330526987,KEGG,Part Of,Amino Acid metabolism,1.64599709036103,WikiPathways
+Cysteine and methionine metabolism,1.62342330526987,KEGG,Part Of,Sulfur amino acid metabolism,1.1182222616602,Reactome
+Cysteine and methionine metabolism,1.62342330526987,KEGG,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+Cytokine-cytokine receptor interaction,-1.35071819182175,KEGG,Part Of,Cytokines and Inflammatory Response,-1.62327865814761,WikiPathways
+Cytokine-cytokine receptor interaction,-1.35071819182175,KEGG,Part Of,Inflammatory Response Pathway,-1.50969446101397,WikiPathways
+Cytokine-cytokine receptor interaction,-1.35071819182175,KEGG,Part Of,Cytokine Signaling in Immune system,-1.22984281434227,Reactome
+Cytokine-cytokine receptor interaction,-1.35071819182175,KEGG,Part Of,Ligand-receptor interactions,1.25064181123414,Reactome
+DNA replication,1.14916210745373,KEGG,Equivalent,DNA Replication,1.55080486010072,WikiPathways
+DNA replication,1.14916210745373,KEGG,Equivalent,DNA Replication,1.75852261214884,Reactome
+ECM-receptor interaction,-1.12710685121724,KEGG,Part Of,Focal Adhesion,1.4194446593372,WikiPathways
+ECM-receptor interaction,-1.12710685121724,KEGG,Part Of,Extracellular matrix organization,-1.36260691313119,Reactome
+Endometrial cancer,1.76302406372429,KEGG,Equivalent,Endometrial cancer,1.68764568074842,WikiPathways
+ErbB signaling pathway,1.49486431239603,KEGG,Equivalent,ErbB Signaling Pathway,1.76302473420968,WikiPathways
+Ether lipid metabolism,1.03225331219053,KEGG,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+Fatty acid metabolism,1.10873427133808,KEGG,Equivalent,Fatty acid metabolism,1.15129338681017,Reactome
+Fatty acid metabolism,1.10873427133808,KEGG,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+Fatty acid metabolism,1.10873427133808,KEGG,Part Of,Mitochondrial Fatty Acid Beta-Oxidation,1.59915951667586,Reactome
+Fc epsilon RI signaling pathway,-1.09636724153115,KEGG,Equivalent,Fc epsilon receptor (FCERI) signaling,1.39670271589599,Reactome
+Fc gamma R-mediated phagocytosis,1.07744762976555,KEGG,Equivalent,Fcgamma receptor (FCGR) dependent phagocytosis,1.28708797305253,Reactome
+Focal adhesion,1.42273415749906,KEGG,Equivalent,Focal Adhesion,1.4194446593372,WikiPathways
+Folate biosynthesis,1.18009507710438,KEGG,Part Of,Metabolism of water-soluble vitamins and cofactors,1.14622128220297,Reactome
+Folate biosynthesis,1.18009507710438,KEGG,Part Of,Metabolism of vitamins and cofactors,1.1025839783589,Reactome
+Glutathione metabolism,-1.02303338339369,KEGG,Equivalent,Glutathione metabolism,-1.005930946481,WikiPathways
+Glutathione metabolism,-1.02303338339369,KEGG,Equivalent,Glutathione synthesis and recycling,0.790421502075445,Reactome
+Glycerolipid metabolism,1.13232259632349,KEGG,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+Glycerophospholipid metabolism,1.14296454121824,KEGG,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+"Glycine, serine and threonine metabolism",1.7087904238186,KEGG,Part Of,Urea cycle and metabolism of amino groups,1.20404243870453,WikiPathways
+"Glycine, serine and threonine metabolism",1.7087904238186,KEGG,Part Of,Amino Acid metabolism,1.64599709036103,WikiPathways
+"Glycine, serine and threonine metabolism",1.7087904238186,KEGG,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+Glycosaminoglycan degradation,-1.3289574490634,KEGG,Part Of,Glycosaminoglycan metabolism,-0.98535219814057,Reactome
+Glyoxylate and dicarboxylate metabolism,-0.814042386300219,KEGG,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+Graft-versus-host disease,-1.20890599386716,KEGG,Part Of,Allograft Rejection,-1.22719489099323,WikiPathways
+Graft-versus-host disease,-1.20890599386716,KEGG,Part Of,Adaptive Immune System,1.59543718210118,Reactome
+Hedgehog signaling pathway,1.6999451899499,KEGG,Equivalent,Hedgehog Signaling Pathway,1.76046143393409,WikiPathways
+Hedgehog signaling pathway,1.6999451899499,KEGG,Equivalent,Signaling by Hedgehog,1.49314273745476,Reactome
+Histidine metabolism,0.935972284543474,KEGG,Part Of,Amino Acid metabolism,1.64599709036103,WikiPathways
+Histidine metabolism,0.935972284543474,KEGG,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+Homologous recombination,1.34586862744364,KEGG,Equivalent,Homologous recombination,1.28263615721631,WikiPathways
+Inositol phosphate metabolism,1.08540758360362,KEGG,Equivalent,Inositol phosphate metabolism,1.18658717048587,Reactome
+Insulin signaling pathway,1.43453156800667,KEGG,Part Of,Insulin signalling in human adipocytes (normal condition),1.77343924351012,WikiPathways
+Intestinal immune network for IgA production,-1.31938676992108,KEGG,Part Of,Adaptive Immune System,1.59543718210118,Reactome
+Linoleic acid metabolism,0.905000724353354,KEGG,Equivalent,Linoleic acid (LA) metabolism,0.848610781009516,Reactome
+Linoleic acid metabolism,0.905000724353354,KEGG,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+Lysine degradation,1.73849335153401,KEGG,Part Of,Amino Acid metabolism,1.64599709036103,WikiPathways
+Lysine degradation,1.73849335153401,KEGG,Equivalent,Lysine catabolism,1.26013097678471,Reactome
+MAPK signaling pathway,1.63843752100925,KEGG,Equivalent,MAPK Signaling Pathway,1.66497658140472,WikiPathways
+MAPK signaling pathway,1.63843752100925,KEGG,Equivalent,MAPK family signaling cascades,1.44679900058369,Reactome
+Melanogenesis,1.60498715565978,KEGG,Equivalent,Melanin biosynthesis,1.12779085922063,Reactome
+Metabolism of xenobiotics by cytochrome P450,1.34771926347225,KEGG,Part Of,Xenobiotics,-0.943695871303448,Reactome
+Mismatch repair,1.32220052979339,KEGG,Equivalent,Mismatch Repair,1.37262455783863,Reactome
+mTOR signaling pathway,1.44766504383271,KEGG,Equivalent,Target Of Rapamycin (TOR) Signaling,1.23584101876138,WikiPathways
+mTOR signaling pathway,1.44766504383271,KEGG,Equivalent,mTOR signalling,1.64732893014431,Reactome
+Nitrogen metabolism,1.66335019385727,KEGG,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+Notch signaling pathway,1.37985113399459,KEGG,Equivalent,Signaling by NOTCH,1.99257850437798,Reactome
+Nucleotide excision repair,1.53980192220792,KEGG,Equivalent,Nucleotide Excision Repair,1.89608032400673,Reactome
+Olfactory transduction,-0.744897924804295,KEGG,Equivalent,Olfactory Signaling Pathway,-0.867132596324064,Reactome
+One carbon pool by folate,1.91111028443119,KEGG,Part Of,One carbon metabolism and related pathways,1.51318362392217,WikiPathways
+One carbon pool by folate,1.91111028443119,KEGG,Part Of,One Carbon Metabolism,1.7075516642437,WikiPathways
+One carbon pool by folate,1.91111028443119,KEGG,Part Of,Folate Metabolism,-1.26873627084433,WikiPathways
+One carbon pool by folate,1.91111028443119,KEGG,Part Of,Metabolism of folate and pterines,1.37531029484763,Reactome
+One carbon pool by folate,1.91111028443119,KEGG,Part Of,Metabolism of vitamins and cofactors,1.1025839783589,Reactome
+Oxidative phosphorylation,0.883464400854206,KEGG,Equivalent,Oxidative phosphorylation,-0.761774327705518,WikiPathways
+Oxidative phosphorylation,0.883464400854206,KEGG,Part Of,The citric acid (TCA) cycle and respiratory electron transport,0.957886528339729,Reactome
+Pantothenate and CoA biosynthesis,1.42438464721794,KEGG,Part Of,Metabolism of vitamins and cofactors,1.1025839783589,Reactome
+Pathogenic Escherichia coli infection,1.14528360362023,KEGG,Equivalent,Pathogenic Escherichia coli infection,1.14103219197471,WikiPathways
+Pentose and glucuronate interconversions,1.33477137036221,KEGG,Part Of,Glucuronidation,0.896877314507228,WikiPathways
+Pentose phosphate pathway,1.23038991618429,KEGG,Part Of,Glycolysis and Gluconeogenesis,-1.10085714659539,WikiPathways
+Pentose phosphate pathway,1.23038991618429,KEGG,Equivalent,Pentose phosphate pathway,1.36334325087746,Reactome
+Phenylalanine metabolism,1.30260163140961,KEGG,Part Of,Amino Acid metabolism,1.64599709036103,WikiPathways
+Phenylalanine metabolism,1.30260163140961,KEGG,Part Of,Biogenic Amine Synthesis,-0.591718337592517,WikiPathways
+Phenylalanine metabolism,1.30260163140961,KEGG,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+PPAR signaling pathway,-1.15901015139527,KEGG,Equivalent,PPAR signaling pathway,-1.12289001573287,WikiPathways
+Primary bile acid biosynthesis,-1.5022586651593,KEGG,Part Of,Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol,1.00870849630348,Reactome
+Primary bile acid biosynthesis,-1.5022586651593,KEGG,Part Of,Synthesis of bile acids and bile salts,1.29255421842141,Reactome
+Primary bile acid biosynthesis,-1.5022586651593,KEGG,Part Of,Synthesis of bile acids and bile salts via 24-hydroxycholesterol,-0.847301141829781,Reactome
+Primary bile acid biosynthesis,-1.5022586651593,KEGG,Part Of,Bile acid and bile salt metabolism,1.29969125003933,Reactome
+Prion diseases,1.02065943555511,KEGG,Equivalent,Prion disease pathway,1.66416967939349,WikiPathways
+Proteasome,0.840088331673376,KEGG,Equivalent,Proteasome Degradation,0.528546313646192,WikiPathways
+Purine metabolism,-0.852259641524426,KEGG,Part Of,Nucleotide Metabolism,1.20832462867838,WikiPathways
+Purine metabolism,-0.852259641524426,KEGG,Part Of,DNA Replication,1.55080486010072,WikiPathways
+Purine metabolism,-0.852259641524426,KEGG,Part Of,Homologous recombination,1.28263615721631,WikiPathways
+Purine metabolism,-0.852259641524426,KEGG,Part Of,Nucleobase catabolism,-0.991316310019882,Reactome
+Purine metabolism,-0.852259641524426,KEGG,Part Of,Metabolism of nucleotides,-1.08825780355457,Reactome
+Pyrimidine metabolism,0.89101538343989,KEGG,Equivalent,Pyrimidine metabolism,0.974434694236109,WikiPathways
+Pyrimidine metabolism,0.89101538343989,KEGG,Part Of,Metabolism of nucleotides,-1.08825780355457,Reactome
+Pyruvate metabolism,1.05263964572424,KEGG,Equivalent,Pyruvate metabolism,0.981992693062052,Reactome
+Regulation of actin cytoskeleton,1.51793504143959,KEGG,Equivalent,Regulation of Actin Cytoskeleton,1.64819740454456,WikiPathways
+Retinol metabolism,1.0392928571107,KEGG,Part Of,Vitamins,-1.44217919805934,Reactome
+Riboflavin metabolism,0.859356778391586,KEGG,Equivalent,Vitamin B2 (riboflavin) metabolism,-1.26745522084652,Reactome
+RIG-I-like receptor signaling pathway,-1.22640051722097,KEGG,Part Of,Innate Immune System,-1.07094601463867,Reactome
+RNA degradation,1.87283553995754,KEGG,Part Of,Metabolism of RNA,2.2366875057622,Reactome
+RNA polymerase,1.35723820760881,KEGG,Part Of,Eukaryotic Transcription Initiation,1.14870324042002,WikiPathways
+SNARE interactions in vesicular transport,1.27006543202403,KEGG,Part Of,Synaptic Vesicle Pathway,0.870988995524412,WikiPathways
+SNARE interactions in vesicular transport,1.27006543202403,KEGG,Part Of,Vesicle-mediated transport,1.9165650784247,Reactome
+SNARE interactions in vesicular transport,1.27006543202403,KEGG,Part Of,Membrane Trafficking,1.96543191827807,Reactome
+Sphingolipid metabolism,1.19219161597171,KEGG,Equivalent,Sphingolipid metabolism,1.14022728096803,Reactome
+Spliceosome,2.39033652723404,KEGG,Part Of,mRNA Processing,2.43689424422104,WikiPathways
+Spliceosome,2.39033652723404,KEGG,Part Of,Processing of Capped Intronless Pre-mRNA,1.59664194764313,Reactome
+Spliceosome,2.39033652723404,KEGG,Part Of,mRNA Splicing,2.27276011471109,Reactome
+Spliceosome,2.39033652723404,KEGG,Part Of,Metabolism of RNA,2.2366875057622,Reactome
+Spliceosome,2.39033652723404,KEGG,Part Of,Processing of Capped Intron-Containing Pre-mRNA,2.28420740019126,Reactome
+Spliceosome,2.39033652723404,KEGG,Part Of,RNA Polymerase II Transcription Termination,1.85636010108728,Reactome
+Starch and sucrose metabolism,1.04109193822302,KEGG,Part Of,Metabolism of carbohydrates,1.05372888614024,Reactome
+Steroid biosynthesis,0.668449439633418,KEGG,Equivalent,Steroid Biosynthesis,0.911918902889569,WikiPathways
+Steroid biosynthesis,0.668449439633418,KEGG,Part Of,Metabolism of steroids,1.76577018523891,Reactome
+Steroid hormone biosynthesis,1.14162384927465,KEGG,Part Of,Metabolism of steroid hormones,1.02328811366821,Reactome
+Sulfur metabolism,-1.23384490346416,KEGG,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+Sulfur metabolism,-1.23384490346416,KEGG,Part Of,Sulfur amino acid metabolism,1.1182222616602,Reactome
+Tight junction,1.3670772653438,KEGG,Equivalent,Tight junction interactions,-0.829126991448965,Reactome
+Tryptophan metabolism,0.938569895212262,KEGG,Equivalent,Tryptophan metabolism,-1.18930349428342,WikiPathways
+Type II diabetes mellitus,1.13466725798469,KEGG,Equivalent,Type II diabetes mellitus,1.08868296499413,WikiPathways
+Tyrosine metabolism,0.994973930454675,KEGG,Part Of,Amino Acid metabolism,1.64599709036103,WikiPathways
+Tyrosine metabolism,0.994973930454675,KEGG,Part Of,Biogenic Amine Synthesis,-0.591718337592517,WikiPathways
+Tyrosine metabolism,0.994973930454675,KEGG,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+Ubiquitin mediated proteolysis,2.31966019038467,KEGG,Part Of,Proteasome Degradation,0.528546313646192,WikiPathways
+"Valine, leucine and isoleucine biosynthesis",-0.502182736155607,KEGG,Part Of,Amino Acid metabolism,1.64599709036103,WikiPathways
+"Valine, leucine and isoleucine biosynthesis",-0.502182736155607,KEGG,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+"Valine, leucine and isoleucine degradation",1.43556846475354,KEGG,Part Of,Amino Acid metabolism,1.64599709036103,WikiPathways
+"Valine, leucine and isoleucine degradation",1.43556846475354,KEGG,Part Of,Branched-chain amino acid catabolism,1.44941610111269,Reactome
+"Valine, leucine and isoleucine degradation",1.43556846475354,KEGG,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+Vascular smooth muscle contraction,1.19371474037186,KEGG,Part Of,Smooth Muscle Contraction,1.12545421486093,Reactome
+Vascular smooth muscle contraction,1.19371474037186,KEGG,Part Of,Muscle contraction,1.24828135709966,Reactome
+Vasopressin-regulated water reabsorption,1.21559769681298,KEGG,Equivalent,Vasopressin regulates renal water homeostasis via Aquaporins,0.608119064156742,Reactome
+Wnt signaling pathway,2.01124537809855,KEGG,Equivalent,Signaling by WNT,1.94583630138424,Reactome
+ABC transporter disorders,1.11830508566183,Reactome,Part Of,ABC transporters,1.27541263896928,KEGG
+ABC transporters in lipid homeostasis,1.3124885841943,Reactome,Part Of,ABC transporters,1.27541263896928,KEGG
+ABC-family proteins mediated transport,1.32957339201639,Reactome,Part Of,ABC transporters,1.27541263896928,KEGG
+Acetylcholine Neurotransmitter Release Cycle,0.923910409069251,Reactome,Part Of,Synaptic Vesicle Pathway,0.870988995524412,WikiPathways
+activated TAK1 mediates p38 MAPK activation,0.783251288084669,Reactome,Part Of,MAPK signaling pathway,1.63843752100925,KEGG
+Activation of ATR in response to replication stress,1.96869878319119,Reactome,Part Of,ATR Signaling,1.0071407481506,WikiPathways
+Activation of C3 and C5,-1.32430210796747,Reactome,Part Of,Complement and coagulation cascades,-1.62724784548331,KEGG
+Activation of C3 and C5,-1.32430210796747,Reactome,Part Of,Complement Activation,-1.77796122591892,WikiPathways
+Activation of C3 and C5,-1.32430210796747,Reactome,Part Of,Complement and Coagulation Cascades,-1.51208765743948,WikiPathways
+Activation of caspases through apoptosome-mediated cleavage,1.44757691314347,Reactome,Part Of,Apoptosis Modulation and Signaling,1.01964909936545,WikiPathways
+Activation of Matrix Metalloproteinases,-1.78025237555856,Reactome,Part Of,Matrix Metalloproteinases,-1.92142690430041,WikiPathways
+Activation of RAS in B cells,1.39893202274408,Reactome,Part Of,Pathways in cancer,1.68249226328719,KEGG
+Acyl chain remodeling of DAG and TAG,1.00844978414327,Reactome,Part Of,Glycerolipid metabolism,1.13232259632349,KEGG
+Acyl chain remodelling of PC,0.855850487684681,Reactome,Part Of,Glycerophospholipid metabolism,1.14296454121824,KEGG
+Acyl chain remodelling of PI,-0.381829565646226,Reactome,Part Of,Glycerophospholipid metabolism,1.14296454121824,KEGG
+Aflatoxin activation and detoxification,-0.922012007674108,Reactome,Part Of,Aflatoxin B1 metabolism,-1.19492095594317,WikiPathways
+Alternative complement activation,-1.6843803233434,Reactome,Part Of,Complement and coagulation cascades,-1.62724784548331,KEGG
+Alternative complement activation,-1.6843803233434,Reactome,Part Of,Complement and Coagulation Cascades,-1.51208765743948,WikiPathways
+Androgen biosynthesis,1.22828631958833,Reactome,Part Of,Steroid Biosynthesis,0.911918902889569,WikiPathways
+Apoptotic factor-mediated response,1.95665758535948,Reactome,Part Of,Apoptosis Modulation and Signaling,1.01964909936545,WikiPathways
+Apoptotic factor-mediated response,1.95665758535948,Reactome,Part Of,Oxidative Damage,-1.74050076204238,WikiPathways
+Aryl hydrocarbon receptor signalling,1.36842493963869,Reactome,Equivalent,Aryl Hydrocarbon Receptor Pathway,1.57276967966897,WikiPathways
+Assembly of the ORC complex at the origin of replication,1.59941733405213,Reactome,Part Of,G1 to S cell cycle control,2.11600853963639,WikiPathways
+Beta oxidation of butanoyl-CoA to acetyl-CoA,1.35605370654901,Reactome,Part Of,Butanoate metabolism,1.42418864243783,KEGG
+Beta oxidation of butanoyl-CoA to acetyl-CoA,1.35605370654901,Reactome,Part Of,Fatty Acid Beta Oxidation,1.4204406827996,WikiPathways
+Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA,1.31011899108684,Reactome,Part Of,Fatty Acid Beta Oxidation,1.4204406827996,WikiPathways
+Beta oxidation of hexanoyl-CoA to butanoyl-CoA,0.645471856260469,Reactome,Part Of,Butanoate metabolism,1.42418864243783,KEGG
+Beta oxidation of hexanoyl-CoA to butanoyl-CoA,0.645471856260469,Reactome,Part Of,Fatty Acid Beta Oxidation,1.4204406827996,WikiPathways
+Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA,1.02924613904151,Reactome,Part Of,Fatty Acid Beta Oxidation,1.4204406827996,WikiPathways
+Beta oxidation of octanoyl-CoA to hexanoyl-CoA,1.0980970694374,Reactome,Part Of,Fatty Acid Beta Oxidation,1.4204406827996,WikiPathways
+BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members,-1.26199935625,Reactome,Part Of,Apoptosis Modulation and Signaling,1.01964909936545,WikiPathways
+CaMK IV-mediated phosphorylation of CREB,0.774887483028177,Reactome,Part Of,Energy Metabolism,2.26285912047278,WikiPathways
+Cargo recognition for clathrin-mediated endocytosis,1.12556308731899,Reactome,Part Of,Endocytosis,1.37729453087066,KEGG
+Caspase activation via extrinsic apoptotic signalling pathway,-1.07089220452921,Reactome,Part Of,Apoptosis Modulation and Signaling,1.01964909936545,WikiPathways
+CD28 co-stimulation,1.09176923406389,Reactome,Part Of,T cell receptor signaling pathway,1.23526567154263,KEGG
+CD28 dependent Vav1 pathway,-1.08155648016754,Reactome,Part Of,T cell receptor signaling pathway,1.23526567154263,KEGG
+Cell Cycle,2.49186106705181,Reactome,Equivalent,Cell Cycle,2.46000924885952,WikiPathways
+Cell-cell junction organization,-0.601950241637137,Reactome,Part Of,Cell adhesion molecules (CAMs),-0.936511322566077,KEGG
+Chemokine receptors bind chemokines,-1.65861261739134,Reactome,Part Of,Chemokine signaling pathway,-0.882688052782622,KEGG
+Chemokine receptors bind chemokines,-1.65861261739134,Reactome,Part Of,Cytokine-cytokine receptor interaction,-1.35071819182175,KEGG
+Chemokine receptors bind chemokines,-1.65861261739134,Reactome,Part Of,Chemokine signaling pathway,0.856564661828542,WikiPathways
+Cholesterol biosynthesis,1.25625883744512,Reactome,Part Of,Steroid Biosynthesis,0.911918902889569,WikiPathways
+Chromatin modifying enzymes,2.70570207826454,Reactome,Part Of,Histone Modifications,2.32624516942719,WikiPathways
+Clathrin-mediated endocytosis,1.19940773942892,Reactome,Part Of,Endocytosis,1.37729453087066,KEGG
+Coenzyme A biosynthesis,1.22050878634654,Reactome,Part Of,Pantothenate and CoA biosynthesis,1.42438464721794,KEGG
+Common Pathway of Fibrin Clot Formation,-0.980874558334674,Reactome,Part Of,Complement and coagulation cascades,-1.62724784548331,KEGG
+Common Pathway of Fibrin Clot Formation,-0.980874558334674,Reactome,Part Of,Complement and Coagulation Cascades,-1.51208765743948,WikiPathways
+Complement cascade,-1.43062751120572,Reactome,Part Of,Complement and coagulation cascades,-1.62724784548331,KEGG
+Complement cascade,-1.43062751120572,Reactome,Equivalent,Complement Activation,-1.77796122591892,WikiPathways
+Complement cascade,-1.43062751120572,Reactome,Part Of,Complement and Coagulation Cascades,-1.51208765743948,WikiPathways
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants,1.68621214807671,Reactome,Part Of,ErbB Signaling Pathway,1.76302473420968,WikiPathways
+CYP2E1 reactions,0.806018179250027,Reactome,Part Of,Oxidation by Cytochrome P450,-0.789720258765462,WikiPathways
+Cytochrome c-mediated apoptotic response,1.90037800228805,Reactome,Part Of,Pathways in cancer,1.68249226328719,KEGG
+Cytochrome c-mediated apoptotic response,1.90037800228805,Reactome,Part Of,Apoptosis Modulation and Signaling,1.01964909936545,WikiPathways
+Cytokine Signaling in Immune system,-1.22984281434227,Reactome,Equivalent,Cytokines and Inflammatory Response,-1.62327865814761,WikiPathways
+Cytosolic tRNA aminoacylation,0.639874546930165,Reactome,Part Of,Aminoacyl-tRNA biosynthesis,1.60033114674097,KEGG
+Defects in cobalamin (B12) metabolism,1.30076819489949,Reactome,Part Of,Vitamin B12 Metabolism,-1.54321828598458,WikiPathways
+Degradation of GLI1 by the proteasome,1.05044632675763,Reactome,Part Of,Proteasome,0.840088331673376,KEGG
+Degradation of the extracellular matrix,-1.44831727372667,Reactome,Part Of,Matrix Metalloproteinases,-1.92142690430041,WikiPathways
+Digestion of dietary lipid,0.722880324178399,Reactome,Part Of,Glycerophospholipid metabolism,1.14296454121824,KEGG
+Dissolution of Fibrin Clot,-0.958664027053052,Reactome,Part Of,Complement and coagulation cascades,-1.62724784548331,KEGG
+Dissolution of Fibrin Clot,-0.958664027053052,Reactome,Part Of,Blood Clotting Cascade,-0.870180955208254,WikiPathways
+Dissolution of Fibrin Clot,-0.958664027053052,Reactome,Part Of,Complement and Coagulation Cascades,-1.51208765743948,WikiPathways
+DNA Damage Bypass,1.27938363085463,Reactome,Part Of,DNA Damage Response,1.8401732927111,WikiPathways
+DNA Damage Reversal,-1.0514130140162,Reactome,Part Of,DNA Damage Response,1.8401732927111,WikiPathways
+DNA Replication,1.75852261214884,Reactome,Equivalent,DNA Replication,1.55080486010072,WikiPathways
+Dopamine Neurotransmitter Release Cycle,1.10926514834094,Reactome,Part Of,Synaptic Vesicle Pathway,0.870988995524412,WikiPathways
+Dopamine receptors,0.968715476436407,Reactome,Part Of,Dopamine metabolism,1.23902169285045,WikiPathways
+Dopamine receptors,0.968715476436407,Reactome,Part Of,Monoamine GPCRs,1.06553893933811,WikiPathways
+Downregulation of ERBB2 signaling,0.869708293132168,Reactome,Part Of,ErbB signaling pathway,1.49486431239603,KEGG
+Downregulation of ERBB4 signaling,1.18978981007839,Reactome,Part Of,ErbB signaling pathway,1.49486431239603,KEGG
+ECM proteoglycans,1.18366335184079,Reactome,Part Of,ECM-receptor interaction,-1.12710685121724,KEGG
+EGFR interacts with phospholipase C-gamma,-1.11503836681794,Reactome,Part Of,ErbB Signaling Pathway,1.76302473420968,WikiPathways
+EGFR Transactivation by Gastrin,1.3573862403492,Reactome,Part Of,ErbB Signaling Pathway,1.76302473420968,WikiPathways
+Eicosanoid ligand-binding receptors,-0.603226510325123,Reactome,Part Of,Prostaglandin Synthesis and Regulation,1.16749110690802,WikiPathways
+ERBB2 Activates PTK6 Signaling,1.40496318458209,Reactome,Part Of,ErbB signaling pathway,1.49486431239603,KEGG
+ERBB2 Activates PTK6 Signaling,1.40496318458209,Reactome,Part Of,ErbB Signaling Pathway,1.76302473420968,WikiPathways
+ERBB2 Regulates Cell Motility,1.38209985863185,Reactome,Part Of,ErbB signaling pathway,1.49486431239603,KEGG
+ERBB2 Regulates Cell Motility,1.38209985863185,Reactome,Part Of,ErbB Signaling Pathway,1.76302473420968,WikiPathways
+Estrogen biosynthesis,0.923257818894337,Reactome,Part Of,Steroid hormone biosynthesis,1.14162384927465,KEGG
+Estrogen biosynthesis,0.923257818894337,Reactome,Part Of,Steroid Biosynthesis,0.911918902889569,WikiPathways
+Extrinsic Pathway of Fibrin Clot Formation,1.17414845777626,Reactome,Part Of,Complement and coagulation cascades,-1.62724784548331,KEGG
+Extrinsic Pathway of Fibrin Clot Formation,1.17414845777626,Reactome,Part Of,Blood Clotting Cascade,-0.870180955208254,WikiPathways
+Extrinsic Pathway of Fibrin Clot Formation,1.17414845777626,Reactome,Part Of,Complement and Coagulation Cascades,-1.51208765743948,WikiPathways
+Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion,-1.13112617048173,Reactome,Equivalent,GPR40 Pathway,-1.07253989644258,WikiPathways
+Fatty acyl-CoA biosynthesis,1.00866699434017,Reactome,Part Of,Biosynthesis of unsaturated fatty acids,0.901154732977127,KEGG
+Fatty acyl-CoA biosynthesis,1.00866699434017,Reactome,Part Of,Fatty Acid Biosynthesis,1.3894689358384,WikiPathways
+Fc epsilon receptor (FCERI) signaling,1.39670271589599,Reactome,Part Of,Fc epsilon RI signaling pathway,-1.09636724153115,KEGG
+FCERI mediated MAPK activation,1.21835630385135,Reactome,Part Of,MAPK signaling pathway,1.63843752100925,KEGG
+Formation of xylulose-5-phosphate,-0.847854684440734,Reactome,Part Of,Pentose and glucuronate interconversions,1.33477137036221,KEGG
+Fructose catabolism,1.27957011040667,Reactome,Part Of,Fructose and mannose metabolism,1.0132074280843,KEGG
+Fructose metabolism,1.02380968466908,Reactome,Part Of,Fructose and mannose metabolism,1.0132074280843,KEGG
+G alpha (i) signalling events,-0.854171242744278,Reactome,Part Of,Monoamine GPCRs,1.06553893933811,WikiPathways
+GABA receptor activation,0.822858123838187,Reactome,Equivalent,GABA receptor Signaling,1.03688568864708,WikiPathways
+"GABA synthesis, release, reuptake and degradation",1.16549467246156,Reactome,Part Of,Biogenic Amine Synthesis,-0.591718337592517,WikiPathways
+"GABA synthesis, release, reuptake and degradation",1.16549467246156,Reactome,Part Of,Synaptic Vesicle Pathway,0.870988995524412,WikiPathways
+Galactose catabolism,0.801938812590551,Reactome,Part Of,Galactose metabolism,-0.829249748932636,KEGG
+Gap junction assembly,-1.4557460855325,Reactome,Part Of,Gap junction,1.65923040673487,KEGG
+Gap junction degradation,1.04688394795034,Reactome,Part Of,Gap junction,1.65923040673487,KEGG
+Gap junction trafficking and regulation,-1.08949990752493,Reactome,Part Of,Gap junction,1.65923040673487,KEGG
+Gastrin-CREB signalling pathway via PKC and MAPK,1.35604123608155,Reactome,Part Of,MAPK signaling pathway,1.63843752100925,KEGG
+Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation,2.05124840433103,Reactome,Part Of,JAK-STAT signaling pathway,1.14263617745889,KEGG
+Glucocorticoid biosynthesis,0.657414929868514,Reactome,Part Of,Steroid hormone biosynthesis,1.14162384927465,KEGG
+Glucocorticoid biosynthesis,0.657414929868514,Reactome,Part Of,Glucocorticoid and Mineralcorticoid Metabolism,0.619328289805096,WikiPathways
+Glucocorticoid biosynthesis,0.657414929868514,Reactome,Part Of,Steroid Biosynthesis,0.911918902889569,WikiPathways
+Gluconeogenesis,-0.770036810248289,Reactome,Part Of,Glycolysis and Gluconeogenesis,-1.10085714659539,WikiPathways
+Glucuronidation,1.47928899489331,Reactome,Equivalent,Glucuronidation,0.896877314507228,WikiPathways
+Glutathione conjugation,-0.716857105515913,Reactome,Part Of,Glutathione metabolism,-1.005930946481,WikiPathways
+Glycerophospholipid biosynthesis,1.41443060874985,Reactome,Part Of,Glycerophospholipid metabolism,1.14296454121824,KEGG
+Glycerophospholipid biosynthesis,1.41443060874985,Reactome,Equivalent,Glycerophospholipid Biosynthetic Pathway,1.42095734727379,WikiPathways
+Glycerophospholipid catabolism,-0.81814884269479,Reactome,Part Of,Glycerolipid metabolism,1.13232259632349,KEGG
+Glycerophospholipid catabolism,-0.81814884269479,Reactome,Part Of,Glycerophospholipid metabolism,1.14296454121824,KEGG
+Glycolysis,1.21259711774688,Reactome,Part Of,Glycolysis and Gluconeogenesis,-1.10085714659539,WikiPathways
+Glyoxylate metabolism and glycine degradation,0.81972080765425,Reactome,Part Of,Glyoxylate and dicarboxylate metabolism,-0.814042386300219,KEGG
+GPCR ligand binding,-0.8704014707209,Reactome,Part Of,Monoamine GPCRs,1.06553893933811,WikiPathways
+GRB2 events in ERBB2 signaling,1.5524754241312,Reactome,Part Of,ErbB signaling pathway,1.49486431239603,KEGG
+GRB2 events in ERBB2 signaling,1.5524754241312,Reactome,Part Of,ErbB Signaling Pathway,1.76302473420968,WikiPathways
+GRB7 events in ERBB2 signaling,1.54969017999983,Reactome,Part Of,ErbB signaling pathway,1.49486431239603,KEGG
+GRB7 events in ERBB2 signaling,1.54969017999983,Reactome,Part Of,ErbB Signaling Pathway,1.76302473420968,WikiPathways
+Hedgehog 'off' state,1.47363122678808,Reactome,Part Of,Hedgehog signaling pathway,1.6999451899499,KEGG
+Hedgehog 'on' state,1.27977168397893,Reactome,Part Of,Hedgehog signaling pathway,1.6999451899499,KEGG
+Hedgehog ligand biogenesis,0.674799153697718,Reactome,Part Of,Hedgehog signaling pathway,1.6999451899499,KEGG
+Heme biosynthesis,1.34902417152322,Reactome,Part Of,Porphyrin and chlorophyll metabolism,-0.743721721432477,KEGG
+Heme biosynthesis,1.34902417152322,Reactome,Equivalent,Heme Biosynthesis,0.932842576678902,WikiPathways
+Heme degradation,-1.04077909379693,Reactome,Part Of,Porphyrin and chlorophyll metabolism,-0.743721721432477,KEGG
+Hemostasis,1.34956718027167,Reactome,Part Of,Complement and coagulation cascades,-1.62724784548331,KEGG
+Hemostasis,1.34956718027167,Reactome,Part Of,Complement and Coagulation Cascades,-1.51208765743948,WikiPathways
+Histidine catabolism,1.20149648827619,Reactome,Part Of,Histidine metabolism,0.935972284543474,KEGG
+Homology Directed Repair,2.16832401913981,Reactome,Part Of,Homologous recombination,1.34586862744364,KEGG
+Homology Directed Repair,2.16832401913981,Reactome,Part Of,Homologous recombination,1.28263615721631,WikiPathways
+IL-6-type cytokine receptor ligand interactions,0.782984453324526,Reactome,Part Of,Cytokine-cytokine receptor interaction,-1.35071819182175,KEGG
+Initial triggering of complement,-2.00325489615069,Reactome,Part Of,Complement Activation,-1.77796122591892,WikiPathways
+Inositol phosphate metabolism,1.18658717048587,Reactome,Part Of,Phosphatidylinositol signaling system,1.2511079258527,KEGG
+Insulin receptor signalling cascade,2.04311725847381,Reactome,Part Of,Insulin signaling pathway,1.43453156800667,KEGG
+Integrin signaling,1.49189009746694,Reactome,Part Of,Focal adhesion,1.42273415749906,KEGG
+Integrin signaling,1.49189009746694,Reactome,Part Of,Focal Adhesion,1.4194446593372,WikiPathways
+Interferon gamma signaling,-1.46946597638785,Reactome,Equivalent,Type II interferon signaling (IFNG),-1.88878493386479,WikiPathways
+Interleukin-1 processing,-1.854662040163,Reactome,Part Of,Cytokines and Inflammatory Response,-1.62327865814761,WikiPathways
+Interleukin-15 signaling,1.2513166219666,Reactome,Part Of,JAK-STAT signaling pathway,1.14263617745889,KEGG
+Interleukin-17 signaling,1.67490909179709,Reactome,Equivalent,IL17 signaling pathway,0.971489403562942,WikiPathways
+Interleukin-21 signaling,0.968555961358521,Reactome,Part Of,JAK-STAT signaling pathway,1.14263617745889,KEGG
+Interleukin-23 signaling,0.939301408803923,Reactome,Part Of,JAK-STAT signaling pathway,1.14263617745889,KEGG
+Interleukin-4 and Interleukin-13 signaling,-1.62222616407171,Reactome,Part Of,Cytokines and Inflammatory Response,-1.62327865814761,WikiPathways
+Interleukin-6 signaling,0.884308380089096,Reactome,Part Of,JAK-STAT signaling pathway,1.14263617745889,KEGG
+Interleukin-9 signaling,-0.366636144368128,Reactome,Part Of,JAK-STAT signaling pathway,1.14263617745889,KEGG
+Intrinsic Pathway of Fibrin Clot Formation,-0.874578951471481,Reactome,Part Of,Complement and coagulation cascades,-1.62724784548331,KEGG
+Intrinsic Pathway of Fibrin Clot Formation,-0.874578951471481,Reactome,Part Of,Complement and Coagulation Cascades,-1.51208765743948,WikiPathways
+Ketone body metabolism,1.06705863227015,Reactome,Equivalent,Synthesis and Degradation of Ketone Bodies,0.691979921100518,WikiPathways
+Laminin interactions,-1.42583485297004,Reactome,Part Of,ECM-receptor interaction,-1.12710685121724,KEGG
+Laminin interactions,-1.42583485297004,Reactome,Part Of,Focal adhesion,1.42273415749906,KEGG
+Laminin interactions,-1.42583485297004,Reactome,Part Of,Focal Adhesion,1.4194446593372,WikiPathways
+Lectin pathway of complement activation,0.645708155937009,Reactome,Part Of,Complement and Coagulation Cascades,-1.51208765743948,WikiPathways
+Linoleic acid (LA) metabolism,0.848610781009516,Reactome,Part Of,Biosynthesis of unsaturated fatty acids,0.901154732977127,KEGG
+Lysosome Vesicle Biogenesis,-1.10653647160886,Reactome,Part Of,Lysosome,-1.42983374272881,KEGG
+MAP2K and MAPK activation,1.68677754846499,Reactome,Part Of,MAPK signaling pathway,1.63843752100925,KEGG
+MAPK family signaling cascades,1.44679900058369,Reactome,Equivalent,MAPK Cascade,1.44763408280078,WikiPathways
+MAPK family signaling cascades,1.44679900058369,Reactome,Equivalent,MAPK Signaling Pathway,1.66497658140472,WikiPathways
+MAPK1 (ERK2) activation,0.579570659847349,Reactome,Part Of,MAPK signaling pathway,1.63843752100925,KEGG
+MAPK3 (ERK1) activation,0.70285251233697,Reactome,Part Of,MAPK signaling pathway,1.63843752100925,KEGG
+Melanin biosynthesis,1.12779085922063,Reactome,Part Of,Melanogenesis,1.60498715565978,KEGG
+Metabolism of amino acids and derivatives,1.3755568442137,Reactome,Equivalent,Amino Acid metabolism,1.64599709036103,WikiPathways
+Metabolism of Angiotensinogen to Angiotensins,-1.72753556904786,Reactome,Part Of,Renin-angiotensin system,-1.50486554201847,KEGG
+Metabolism of lipids,1.74145013610276,Reactome,Equivalent,Lipid Metabolism Pathway,1.06397213600624,WikiPathways
+Metabolism of nucleotides,-1.08825780355457,Reactome,Equivalent,Nucleotide Metabolism,1.20832462867838,WikiPathways
+Metabolism of porphyrins,0.806857685807809,Reactome,Part Of,Porphyrin and chlorophyll metabolism,-0.743721721432477,KEGG
+Metalloprotease DUBs,1.12609935054981,Reactome,Part Of,Matrix Metalloproteinases,-1.92142690430041,WikiPathways
+Methionine salvage pathway,1.63320218814202,Reactome,Equivalent,Methionine De Novo and Salvage Pathway,1.56541055715027,WikiPathways
+Methionine salvage pathway,1.63320218814202,Reactome,Part Of,Methionine De Novo and Salvage Pathway,1.56541055715027,WikiPathways
+Methylation,1.01615849840124,Reactome,Equivalent,Methylation Pathways,1.01059427032673,WikiPathways
+MHC class II antigen presentation,1.16236592441424,Reactome,Part Of,Antigen processing and presentation,1.13816770850104,KEGG
+MicroRNA (miRNA) biogenesis,1.4221133731292,Reactome,Equivalent,miRNA Biogenesis,1.41848496237017,WikiPathways
+Mineralocorticoid biosynthesis,0.584424535600932,Reactome,Part Of,Steroid hormone biosynthesis,1.14162384927465,KEGG
+Mineralocorticoid biosynthesis,0.584424535600932,Reactome,Part Of,Glucocorticoid and Mineralcorticoid Metabolism,0.619328289805096,WikiPathways
+Mineralocorticoid biosynthesis,0.584424535600932,Reactome,Part Of,Steroid Biosynthesis,0.911918902889569,WikiPathways
+Mitochondrial biogenesis,2.14032762987694,Reactome,Part Of,Energy Metabolism,2.26285912047278,WikiPathways
+Mitochondrial biogenesis,2.14032762987694,Reactome,Part Of,Mitochondrial Gene Expression,1.57362567570462,WikiPathways
+Mitochondrial Fatty Acid Beta-Oxidation,1.59915951667586,Reactome,Equivalent,Fatty Acid Beta Oxidation,1.4204406827996,WikiPathways
+mitochondrial fatty acid beta-oxidation of saturated fatty acids,1.54685180592297,Reactome,Part Of,Fatty Acid Beta Oxidation,1.4204406827996,WikiPathways
+mitochondrial fatty acid beta-oxidation of unsaturated fatty acids,0.918999360703769,Reactome,Part Of,Fatty Acid Beta Oxidation,1.4204406827996,WikiPathways
+Mitochondrial tRNA aminoacylation,1.45392612050936,Reactome,Part Of,Aminoacyl-tRNA biosynthesis,1.60033114674097,KEGG
+Molybdenum cofactor biosynthesis,1.35990790586817,Reactome,Part Of,Folate biosynthesis,1.18009507710438,KEGG
+mRNA decay by 3' to 5' exoribonuclease,0.588323004089515,Reactome,Part Of,RNA degradation,1.87283553995754,KEGG
+mRNA decay by 5' to 3' exoribonuclease,1.75500123794707,Reactome,Part Of,RNA degradation,1.87283553995754,KEGG
+mRNA Splicing,2.27276011471109,Reactome,Part Of,mRNA Processing,2.43689424422104,WikiPathways
+mTOR signalling,1.64732893014431,Reactome,Equivalent,Target Of Rapamycin (TOR) Signaling,1.23584101876138,WikiPathways
+Muscarinic acetylcholine receptors,0.790965442639208,Reactome,Part Of,Calcium Regulation in the Cardiac Cell,0.927739680588902,WikiPathways
+N-Glycan antennae elongation,-0.746516771465606,Reactome,Part Of,N-Glycan biosynthesis,1.57291365089644,KEGG
+N-glycan trimming and elongation in the cis-Golgi,1.76919064598927,Reactome,Part Of,N-Glycan biosynthesis,1.57291365089644,KEGG
+Negative feedback regulation of MAPK pathway,1.21405710780099,Reactome,Part Of,MAPK signaling pathway,1.63843752100925,KEGG
+Negative regulation of MAPK pathway,1.40808020551549,Reactome,Part Of,MAPK signaling pathway,1.63843752100925,KEGG
+Neurofascin interactions,-0.770048745563474,Reactome,Part Of,Cell adhesion molecules (CAMs),-0.936511322566077,KEGG
+Nicotinamide salvaging,-0.538029550697958,Reactome,Part Of,Nicotinate and nicotinamide metabolism,-1.36254462971142,KEGG
+Nicotinate metabolism,-1.10976694606418,Reactome,Part Of,Nicotinate and nicotinamide metabolism,-1.36254462971142,KEGG
+Nitric oxide stimulates guanylate cyclase,0.987720276976573,Reactome,Part Of,Effects of Nitric Oxide,0.988826676753205,WikiPathways
+Non-integrin membrane-ECM interactions,1.09624852965309,Reactome,Part Of,Focal adhesion,1.42273415749906,KEGG
+Norepinephrine Neurotransmitter Release Cycle,1.12515733586562,Reactome,Part Of,Synaptic Vesicle Pathway,0.870988995524412,WikiPathways
+Nuclear Receptor transcription pathway,1.83438100249408,Reactome,Part Of,Nuclear Receptors,1.87188793277722,WikiPathways
+Nuclear signaling by ERBB4,-0.763476913597109,Reactome,Part Of,ErbB signaling pathway,1.49486431239603,KEGG
+Oxidative Stress Induced Senescence,2.15438494775566,Reactome,Part Of,Oxidative Stress,-0.885161741946724,WikiPathways
+p130Cas linkage to MAPK signaling for integrins,1.38055386811559,Reactome,Part Of,MAPK signaling pathway,1.63843752100925,KEGG
+p38MAPK events,1.21287695779468,Reactome,Part Of,MAPK signaling pathway,1.63843752100925,KEGG
+p38MAPK events,1.21287695779468,Reactome,Equivalent,p38 MAPK Signaling Pathway,1.78087648755626,WikiPathways
+Peroxisomal lipid metabolism,-0.819578840301702,Reactome,Part Of,Peroxisome,0.990780322209013,KEGG
+Phospholipid metabolism,1.76227381911281,Reactome,Part Of,Ether lipid metabolism,1.03225331219053,KEGG
+PI3K events in ERBB2 signaling,1.56735322704134,Reactome,Part Of,ErbB signaling pathway,1.49486431239603,KEGG
+PI3K events in ERBB2 signaling,1.56735322704134,Reactome,Part Of,ErbB Signaling Pathway,1.76302473420968,WikiPathways
+PI3K events in ERBB4 signaling,1.25622524790565,Reactome,Part Of,ErbB signaling pathway,1.49486431239603,KEGG
+PI3K events in ERBB4 signaling,1.25622524790565,Reactome,Part Of,ErbB Signaling Pathway,1.76302473420968,WikiPathways
+PKMTs methylate histone lysines,2.05377161040836,Reactome,Part Of,Histone Modifications,2.32624516942719,WikiPathways
+"Platelet activation, signaling and aggregation",1.2386394028746,Reactome,Part Of,Complement and Coagulation Cascades,-1.51208765743948,WikiPathways
+Platelet calcium homeostasis,1.08878824397961,Reactome,Part Of,Calcium signaling pathway,0.806434577553032,KEGG
+Processing of Capped Intron-Containing Pre-mRNA,2.28420740019126,Reactome,Part Of,mRNA Processing,2.43689424422104,WikiPathways
+Processing of Capped Intronless Pre-mRNA,1.59664194764313,Reactome,Part Of,mRNA Processing,2.43689424422104,WikiPathways
+Processing of Intronless Pre-mRNAs,1.73601107101704,Reactome,Part Of,mRNA Processing,2.43689424422104,WikiPathways
+Prolactin receptor signaling,1.57110864983773,Reactome,Equivalent,Prolactin Signaling Pathway,1.60896901419283,WikiPathways
+Propionyl-CoA catabolism,1.34635618135911,Reactome,Part Of,Propanoate metabolism,1.55080840599338,KEGG
+Prostanoid ligand receptors,-0.851399133438091,Reactome,Part Of,Prostaglandin Synthesis and Regulation,1.16749110690802,WikiPathways
+Purine catabolism,-1.16281941913281,Reactome,Part Of,Purine metabolism,-0.852259641524426,KEGG
+Purine ribonucleoside monophosphate biosynthesis,1.36036698505533,Reactome,Part Of,Purine metabolism,-0.852259641524426,KEGG
+Purine salvage,-1.38540243894029,Reactome,Part Of,Purine metabolism,-0.852259641524426,KEGG
+Pyrimidine catabolism,-1.09694442290348,Reactome,Part Of,Pyrimidine metabolism,0.89101538343989,KEGG
+Pyrimidine catabolism,-1.09694442290348,Reactome,Part Of,Pyrimidine metabolism,0.974434694236109,WikiPathways
+Pyrimidine salvage,-1.08161076016048,Reactome,Part Of,Pyrimidine metabolism,0.89101538343989,KEGG
+Pyrimidine salvage,-1.08161076016048,Reactome,Part Of,Pyrimidine metabolism,0.974434694236109,WikiPathways
+RA biosynthesis pathway,0.867704449164404,Reactome,Part Of,Vitamin A and Carotenoid Metabolism,0.841271091235413,WikiPathways
+Regulation of IFNG signaling,0.88066943491919,Reactome,Part Of,JAK-STAT signaling pathway,1.14263617745889,KEGG
+Regulation of KIT signaling,-0.972513894403194,Reactome,Part Of,Kit receptor signaling pathway,1.2035024842541,WikiPathways
+Regulation of TP53 Activity through Methylation,1.92362342569332,Reactome,Part Of,p53 signaling pathway,1.95958887795833,KEGG
+Regulation of TP53 Expression and Degradation,2.01116616518652,Reactome,Part Of,p53 signaling pathway,1.95958887795833,KEGG
+Release of apoptotic factors from the mitochondria,1.12542264057455,Reactome,Part Of,Apoptosis Modulation and Signaling,1.01964909936545,WikiPathways
+RNA Polymerase I Promoter Escape,1.53032628158895,Reactome,Part Of,Basal transcription factors,1.92884425147475,KEGG
+RNA Polymerase I Transcription Termination,1.60602118025109,Reactome,Part Of,Basal transcription factors,1.92884425147475,KEGG
+RNA polymerase II transcribes snRNA genes,1.91642749857543,Reactome,Part Of,Basal transcription factors,1.92884425147475,KEGG
+RNA Polymerase II Transcription,2.57213878283152,Reactome,Part Of,Basal transcription factors,1.92884425147475,KEGG
+RUNX1 regulates expression of components of tight junctions,1.44173705178643,Reactome,Part Of,Tight junction,1.3670772653438,KEGG
+RUNX2 regulates chondrocyte maturation,1.55821308087089,Reactome,Part Of,Endochondral Ossification,1.36315067928137,WikiPathways
+RUNX3 regulates WNT signaling,1.11490865675823,Reactome,Part Of,Wnt signaling pathway,2.01124537809855,KEGG
+Serotonin and melatonin biosynthesis,0.538052964065109,Reactome,Part Of,Biogenic Amine Synthesis,-0.591718337592517,WikiPathways
+Serotonin Neurotransmitter Release Cycle,1.12556217551003,Reactome,Part Of,Synaptic Vesicle Pathway,0.870988995524412,WikiPathways
+Serotonin receptors,-0.455830970066982,Reactome,Part Of,Monoamine GPCRs,1.06553893933811,WikiPathways
+SHC1 events in EGFR signaling,0.946615678204848,Reactome,Part Of,ErbB Signaling Pathway,1.76302473420968,WikiPathways
+SHC1 events in ERBB2 signaling,1.65225818536815,Reactome,Part Of,ErbB signaling pathway,1.49486431239603,KEGG
+SHC1 events in ERBB2 signaling,1.65225818536815,Reactome,Part Of,ErbB Signaling Pathway,1.76302473420968,WikiPathways
+SHC1 events in ERBB4 signaling,1.34725114687046,Reactome,Part Of,ErbB signaling pathway,1.49486431239603,KEGG
+SHC1 events in ERBB4 signaling,1.34725114687046,Reactome,Part Of,ErbB Signaling Pathway,1.76302473420968,WikiPathways
+Signaling by BMP,2.17215212350954,Reactome,Equivalent,Bone Morphogenic Protein (BMP) Signalling and Regulation,2.09381603418409,WikiPathways
+Signaling by EGFR in Cancer,1.26677061902407,Reactome,Part Of,ErbB Signaling Pathway,1.76302473420968,WikiPathways
+Signaling by ERBB2,1.31986749856018,Reactome,Part Of,ErbB signaling pathway,1.49486431239603,KEGG
+Signaling by ERBB2,1.31986749856018,Reactome,Part Of,ErbB Signaling Pathway,1.76302473420968,WikiPathways
+Signaling by ERBB4,1.26148338605135,Reactome,Part Of,ErbB signaling pathway,1.49486431239603,KEGG
+Signaling by Hedgehog,1.49314273745476,Reactome,Part Of,Hedgehog signaling pathway,1.6999451899499,KEGG
+Signaling by Hedgehog,1.49314273745476,Reactome,Equivalent,Hedgehog Signaling Pathway,1.76046143393409,WikiPathways
+Signaling by Insulin receptor,1.72401494073149,Reactome,Part Of,Insulin signaling pathway,1.43453156800667,KEGG
+Signaling by Interleukins,1.26300147945269,Reactome,Part Of,Cytokines and Inflammatory Response,-1.62327865814761,WikiPathways
+Signaling by Leptin,1.12875737444646,Reactome,Part Of,Adipocytokine signaling pathway,1.09655089278561,KEGG
+Signaling by Leptin,1.12875737444646,Reactome,Equivalent,Leptin signaling pathway,1.56330160398689,WikiPathways
+Signaling by VEGF,1.3387303616625,Reactome,Part Of,Robo4 and VEGF Signaling Pathways Crosstalk,0.972884506690137,WikiPathways
+Signaling by WNT,1.94583630138424,Reactome,Part Of,Wnt Signaling Pathway and Pluripotency,1.42725859651796,WikiPathways
+SOS-mediated signalling,1.5198638566651,Reactome,Part Of,Alpha 6 Beta 4 signaling pathway,1.02491565018774,WikiPathways
+SOS-mediated signalling,1.5198638566651,Reactome,Part Of,DNA Damage Response (only ATM dependent),1.42887638562106,WikiPathways
+Synthesis of 5-eicosatetraenoic acids,-0.879349584319381,Reactome,Part Of,Biosynthesis of unsaturated fatty acids,0.901154732977127,KEGG
+Synthesis of GDP-mannose,-1.33199831115631,Reactome,Part Of,Fructose and mannose metabolism,1.0132074280843,KEGG
+"Synthesis of IP2, IP, and Ins in the cytosol",1.00505751930404,Reactome,Part Of,Phosphatidylinositol signaling system,1.2511079258527,KEGG
+Synthesis of IP3 and IP4 in the cytosol,-0.811224823865387,Reactome,Part Of,Phosphatidylinositol signaling system,1.2511079258527,KEGG
+Synthesis of PE,0.883608452302958,Reactome,Part Of,Glycerophospholipid metabolism,1.14296454121824,KEGG
+Synthesis of PIPs at the early endosome membrane,1.9402392756601,Reactome,Part Of,Phosphatidylinositol signaling system,1.2511079258527,KEGG
+Synthesis of PIPs at the ER membrane,1.3978514953555,Reactome,Part Of,Phosphatidylinositol signaling system,1.2511079258527,KEGG
+Synthesis of PIPs at the Golgi membrane,1.17876618596165,Reactome,Part Of,Phosphatidylinositol signaling system,1.2511079258527,KEGG
+Synthesis of PIPs at the late endosome membrane,1.72945883294381,Reactome,Part Of,Phosphatidylinositol signaling system,1.2511079258527,KEGG
+Synthesis of PIPs at the plasma membrane,2.0397771897205,Reactome,Part Of,Phosphatidylinositol signaling system,1.2511079258527,KEGG
+Synthesis of very long-chain fatty acyl-CoAs,1.41038940550161,Reactome,Part Of,Biosynthesis of unsaturated fatty acids,0.901154732977127,KEGG
+Terminal pathway of complement,1.27620437441732,Reactome,Part Of,Complement and coagulation cascades,-1.62724784548331,KEGG
+Terminal pathway of complement,1.27620437441732,Reactome,Part Of,Complement Activation,-1.77796122591892,WikiPathways
+Terminal pathway of complement,1.27620437441732,Reactome,Part Of,Complement and Coagulation Cascades,-1.51208765743948,WikiPathways
+Thyroxine biosynthesis,1.3233903689688,Reactome,Equivalent,Thyroxine (Thyroid Hormone) Production,-0.696754499233352,WikiPathways
+TNFs bind their physiological receptors,-1.51368640089864,Reactome,Part Of,Cytokine-cytokine receptor interaction,-1.35071819182175,KEGG
+Toll Like Receptor 10 (TLR10) Cascade,1.65708548203496,Reactome,Part Of,Toll-like receptor signaling pathway,-1.11848551914001,KEGG
+Toll Like Receptor 4 (TLR4) Cascade,1.3005194364527,Reactome,Part Of,Toll-like receptor signaling pathway,-1.11848551914001,KEGG
+Toll Like Receptor 4 (TLR4) Cascade,1.3005194364527,Reactome,Part Of,TLR4 Signaling and Tolerance,-1.43136150207731,WikiPathways
+Toll Like Receptor 9 (TLR9) Cascade,1.43345994177128,Reactome,Part Of,Toll-like receptor signaling pathway,-1.11848551914001,KEGG
+TP53 Regulates Metabolic Genes,1.54658917500464,Reactome,Part Of,p53 signaling pathway,1.95958887795833,KEGG
+TP53 Regulates Transcription of Caspase Activators and Caspases,1.86984495686193,Reactome,Part Of,p53 signaling pathway,1.95958887795833,KEGG
+TP53 Regulates Transcription of Caspase Activators and Caspases,1.86984495686193,Reactome,Part Of,Apoptosis Modulation and Signaling,1.01964909936545,WikiPathways
+TP53 Regulates Transcription of Cell Cycle Genes,1.94683363488386,Reactome,Part Of,p53 signaling pathway,1.95958887795833,KEGG
+TP53 Regulates Transcription of Cell Death Genes,1.57718712850833,Reactome,Part Of,p53 signaling pathway,1.95958887795833,KEGG
+TP53 Regulates Transcription of Death Receptors and Ligands,1.29122367032684,Reactome,Part Of,p53 signaling pathway,1.95958887795833,KEGG
+TP53 Regulates Transcription of Genes Involved in Cytochrome C Release,1.47951433437831,Reactome,Part Of,p53 signaling pathway,1.95958887795833,KEGG
+TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest,1.32624899528056,Reactome,Part Of,p53 signaling pathway,1.95958887795833,KEGG
+TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain,1.35740392514341,Reactome,Part Of,p53 signaling pathway,1.95958887795833,KEGG
+Transcriptional regulation of white adipocyte differentiation,1.71982653355696,Reactome,Part Of,Differentiation of white and brown adipocyte,1.45907108356799,WikiPathways
+Transcriptional regulation of white adipocyte differentiation,1.71982653355696,Reactome,Part Of,Transcription factor regulation in adipogenesis,0.962425947050692,WikiPathways
+Transcriptional regulation of white adipocyte differentiation,1.71982653355696,Reactome,Part Of,Transcriptional cascade regulating adipogenesis,0.955614138560593,WikiPathways
+Transcriptional regulation of white adipocyte differentiation,1.71982653355696,Reactome,Part Of,White fat cell differentiation,1.13042981763361,WikiPathways
+Triglyceride biosynthesis,0.789624907505621,Reactome,Equivalent,Triacylglyceride Synthesis,1.30155406198049,WikiPathways
+tRNA Aminoacylation,1.41028718706768,Reactome,Part Of,Aminoacyl-tRNA biosynthesis,1.60033114674097,KEGG
+Tryptophan catabolism,-0.967221600238382,Reactome,Part Of,Tryptophan metabolism,0.938569895212262,KEGG
+Tryptophan catabolism,-0.967221600238382,Reactome,Part Of,Tryptophan metabolism,-1.18930349428342,WikiPathways
+Ub-specific processing proteases,1.9390811154755,Reactome,Part Of,Proteasome,0.840088331673376,KEGG
+Urea cycle,0.789840998422081,Reactome,Part Of,Urea cycle and metabolism of amino groups,1.20404243870453,WikiPathways
+VEGF ligand-receptor interactions,-1.07723650041229,Reactome,Part Of,Robo4 and VEGF Signaling Pathways Crosstalk,0.972884506690137,WikiPathways
+Vitamin B5 (pantothenate) metabolism,1.36474554894569,Reactome,Part Of,Pantothenate and CoA biosynthesis,1.42438464721794,KEGG
+Vitamin D (calciferol) metabolism,0.877390503569751,Reactome,Equivalent,Vitamin D Metabolism,0.842374748866061,WikiPathways
+WNT mediated activation of DVL,0.994871944445922,Reactome,Part Of,Wnt signaling pathway,2.01124537809855,KEGG
+Zinc efflux and compartmentalization by the SLC30 family,1.6663555102098,Reactome,Part Of,Zinc homeostasis,1.05967168267485,WikiPathways
+Zinc influx into cells by the SLC39 gene family,0.944040131811169,Reactome,Part Of,Zinc homeostasis,1.05967168267485,WikiPathways
+Zinc transporters,1.60786497738419,Reactome,Part Of,Zinc homeostasis,1.05967168267485,WikiPathways
+ACE Inhibitor Pathway,-1.438460600593,WikiPathways,Part Of,Renin-angiotensin system,-1.50486554201847,KEGG
+Alanine and aspartate metabolism,0.927230455180773,WikiPathways,Part Of,"Alanine, aspartate and glutamate metabolism",1.08763345470663,KEGG
+Alanine and aspartate metabolism,0.927230455180773,WikiPathways,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+Allograft Rejection,-1.22719489099323,WikiPathways,Part Of,Adaptive Immune System,1.59543718210118,Reactome
+Amino Acid metabolism,1.64599709036103,WikiPathways,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+Apoptosis Modulation and Signaling,1.01964909936545,WikiPathways,Part Of,Apoptosis,1.1773387591651,KEGG
+Apoptosis Modulation by HSP70,1.26009869874762,WikiPathways,Part Of,Apoptosis,1.1773387591651,KEGG
+Apoptosis Modulation by HSP70,1.26009869874762,WikiPathways,Part Of,Apoptotic factor-mediated response,1.95665758535948,Reactome
+Apoptosis Modulation by HSP70,1.26009869874762,WikiPathways,Part Of,Programmed Cell Death,1.61619658393805,Reactome
+B Cell Receptor Signaling Pathway,1.10246874872235,WikiPathways,Part Of,Adaptive Immune System,1.59543718210118,Reactome
+Bladder Cancer,1.10997121158376,WikiPathways,Part Of,Pathways in cancer,1.68249226328719,KEGG
+Blood Clotting Cascade,-0.870180955208254,WikiPathways,Part Of,Hemostasis,1.34956718027167,Reactome
+Complement Activation,-1.77796122591892,WikiPathways,Part Of,Complement and coagulation cascades,-1.62724784548331,KEGG
+Cori Cycle,-1.48663462287758,WikiPathways,Part Of,Glucose metabolism,1.22157784002314,Reactome
+Cori Cycle,-1.48663462287758,WikiPathways,Part Of,Metabolism of carbohydrates,1.05372888614024,Reactome
+Cytoplasmic Ribosomal Proteins,1.48744105570442,WikiPathways,Part Of,Ribosome,1.52465400608347,KEGG
+Cytosine methylation,0.862416927735346,WikiPathways,Part Of,DNA methylation,0.901179449078426,Reactome
+Cytosine methylation,0.862416927735346,WikiPathways,Part Of,Methylation,1.01615849840124,Reactome
+"Degradation pathway of sphingolipids, including diseases",-0.82112816565412,WikiPathways,Part Of,Glycerolipid metabolism,1.13232259632349,KEGG
+"Degradation pathway of sphingolipids, including diseases",-0.82112816565412,WikiPathways,Part Of,Sphingolipid metabolism,1.14022728096803,Reactome
+"Degradation pathway of sphingolipids, including diseases",-0.82112816565412,WikiPathways,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+"Degradation pathway of sphingolipids, including diseases",-0.82112816565412,WikiPathways,Part Of,Glycosphingolipid metabolism,-0.963285840866337,Reactome
+Differentiation of white and brown adipocyte,1.45907108356799,WikiPathways,Part Of,Developmental Biology,1.63982943195317,Reactome
+Dual hijack model of Vif in HIV infection,1.51036581300547,WikiPathways,Part Of,HIV Infection,1.67383184183947,Reactome
+Eicosanoid Synthesis,-0.636703692079862,WikiPathways,Part Of,Arachidonic acid metabolism,-0.875178931322911,Reactome
+Eicosanoid Synthesis,-0.636703692079862,WikiPathways,Part Of,Eicosanoids,-0.582072518981884,Reactome
+Eicosanoid Synthesis,-0.636703692079862,WikiPathways,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+Endothelin Pathways,1.51932849727715,WikiPathways,Part Of,Vascular smooth muscle contraction,1.19371474037186,KEGG
+Eukaryotic Transcription Initiation,1.14870324042002,WikiPathways,Part Of,Basal transcription factors,1.92884425147475,KEGG
+Fas Ligand (FasL) pathway and Stress induction of Heat Shock Proteins (HSP) regulation,1.46191775328816,WikiPathways,Part Of,Programmed Cell Death,1.61619658393805,Reactome
+Fatty Acid Beta Oxidation,1.4204406827996,WikiPathways,Part Of,Fatty acid metabolism,1.10873427133808,KEGG
+Fatty Acid Beta Oxidation,1.4204406827996,WikiPathways,Part Of,Fatty acid metabolism,1.15129338681017,Reactome
+Fatty Acid Beta Oxidation,1.4204406827996,WikiPathways,Part Of,Mitochondrial Fatty Acid Beta-Oxidation,1.59915951667586,Reactome
+Fatty Acid Beta Oxidation,1.4204406827996,WikiPathways,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+Fatty Acid Biosynthesis,1.3894689358384,WikiPathways,Part Of,Fatty acid metabolism,1.10873427133808,KEGG
+Fatty Acid Biosynthesis,1.3894689358384,WikiPathways,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+Fatty Acid Biosynthesis,1.3894689358384,WikiPathways,Part Of,Fatty acid metabolism,1.15129338681017,Reactome
+Fatty Acid Omega Oxidation,-1.12558901309029,WikiPathways,Part Of,Mitochondrial Fatty Acid Beta-Oxidation,1.59915951667586,Reactome
+Fatty Acid Omega Oxidation,-1.12558901309029,WikiPathways,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+Fatty Acid Omega Oxidation,-1.12558901309029,WikiPathways,Part Of,Biological oxidations,0.899277514739117,Reactome
+Fatty Acid Omega Oxidation,-1.12558901309029,WikiPathways,Part Of,Fatty acid metabolism,1.15129338681017,Reactome
+Fibrin Complement Receptor 3 Signaling Pathway,-1.12269981326941,WikiPathways,Part Of,Innate Immune System,-1.07094601463867,Reactome
+Fluoropyrimidine Activity,1.70204305737295,WikiPathways,Part Of,Pyrimidine catabolism,-1.09694442290348,Reactome
+Fluoropyrimidine Activity,1.70204305737295,WikiPathways,Part Of,Metabolism of nucleotides,-1.08825780355457,Reactome
+Folate Metabolism,-1.26873627084433,WikiPathways,Part Of,Metabolism of water-soluble vitamins and cofactors,1.14622128220297,Reactome
+Folate Metabolism,-1.26873627084433,WikiPathways,Part Of,Metabolism of folate and pterines,1.37531029484763,Reactome
+Folate Metabolism,-1.26873627084433,WikiPathways,Part Of,Metabolism of vitamins and cofactors,1.1025839783589,Reactome
+G1 to S cell cycle control,2.11600853963639,WikiPathways,Part Of,Cell cycle,2.52433626512743,KEGG
+G1 to S cell cycle control,2.11600853963639,WikiPathways,Part Of,Cell Cycle,2.49186106705181,Reactome
+G1 to S cell cycle control,2.11600853963639,WikiPathways,Part Of,"Cell Cycle, Mitotic",2.42796226546731,Reactome
+Ganglio Sphingolipid Metabolism,-0.609237789154891,WikiPathways,Part Of,Sphingolipid metabolism,1.14022728096803,Reactome
+Glial Cell Differentiation,0.930952168674292,WikiPathways,Part Of,Developmental Biology,1.63982943195317,Reactome
+Globo Sphingolipid Metabolism,-0.839541151316667,WikiPathways,Part Of,Sphingolipid metabolism,1.14022728096803,Reactome
+Glucocorticoid and Mineralcorticoid Metabolism,0.619328289805096,WikiPathways,Part Of,Steroid hormone biosynthesis,1.14162384927465,KEGG
+Glucocorticoid and Mineralcorticoid Metabolism,0.619328289805096,WikiPathways,Part Of,Metabolism of steroid hormones,1.02328811366821,Reactome
+Glucocorticoid and Mineralcorticoid Metabolism,0.619328289805096,WikiPathways,Part Of,Metabolism of steroids,1.76577018523891,Reactome
+Glycerophospholipid Biosynthetic Pathway,1.42095734727379,WikiPathways,Part Of,Glycerolipid metabolism,1.13232259632349,KEGG
+Glycerophospholipid Biosynthetic Pathway,1.42095734727379,WikiPathways,Part Of,Glycerophospholipid metabolism,1.14296454121824,KEGG
+Glycolysis and Gluconeogenesis,-1.10085714659539,WikiPathways,Part Of,Metabolism of carbohydrates,1.05372888614024,Reactome
+Glycolysis and Gluconeogenesis,-1.10085714659539,WikiPathways,Part Of,Glucose metabolism,1.22157784002314,Reactome
+"GPCRs, Class C Metabotropic glutamate, pheromone",-0.893908124277228,WikiPathways,Part Of,Neuroactive ligand-receptor interaction,0.691822801621522,KEGG
+"GPCRs, Other",1.06717768814398,WikiPathways,Part Of,Signaling by GPCR,-0.696509304536105,Reactome
+"GPCRs, Other",1.06717768814398,WikiPathways,Part Of,GPCR ligand binding,-0.8704014707209,Reactome
+HIF1A and PPARG regulation of glycolysis,1.03096077544772,WikiPathways,Part Of,Glycolysis,1.21259711774688,Reactome
+HIF1A and PPARG regulation of glycolysis,1.03096077544772,WikiPathways,Part Of,Glucose metabolism,1.22157784002314,Reactome
+HIF1A and PPARG regulation of glycolysis,1.03096077544772,WikiPathways,Part Of,Metabolism of carbohydrates,1.05372888614024,Reactome
+Homologous recombination,1.28263615721631,WikiPathways,Part Of,Nucleotide excision repair,1.53980192220792,KEGG
+Imatinib and Chronic Myeloid Leukemia,1.26723140362643,WikiPathways,Part Of,Chronic myeloid leukemia,1.73327464872915,KEGG
+Inflammatory Response Pathway,-1.50969446101397,WikiPathways,Part Of,Cytokine Signaling in Immune system,-1.22984281434227,Reactome
+Integrated Cancer Pathway,1.93397011080632,WikiPathways,Part Of,Pathways in cancer,1.68249226328719,KEGG
+Interferon type I signaling pathways,1.41426904953159,WikiPathways,Part Of,Cytokine Signaling in Immune system,-1.22984281434227,Reactome
+Interferon type I signaling pathways,1.41426904953159,WikiPathways,Part Of,Innate Immune System,-1.07094601463867,Reactome
+Interferon type I signaling pathways,1.41426904953159,WikiPathways,Part Of,Adaptive Immune System,1.59543718210118,Reactome
+Interferon type I signaling pathways,1.41426904953159,WikiPathways,Part Of,Interferon Signaling,-1.74359766450895,Reactome
+Kennedy pathway from Sphingolipids,0.796616896712318,WikiPathways,Part Of,Synthesis of PC,0.928539423021526,Reactome
+Kennedy pathway from Sphingolipids,0.796616896712318,WikiPathways,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+Kennedy pathway from Sphingolipids,0.796616896712318,WikiPathways,Part Of,Sphingolipid metabolism,1.14022728096803,Reactome
+Leptin and adiponectin,0.923355829971597,WikiPathways,Part Of,Adipocytokine signaling pathway,1.09655089278561,KEGG
+Leptin and adiponectin,0.923355829971597,WikiPathways,Part Of,Signaling by Leptin,1.12875737444646,Reactome
+Leptin Insulin Overlap,0.919666703793901,WikiPathways,Part Of,Signaling by Leptin,1.12875737444646,Reactome
+Macrophage markers,-1.46828406495433,WikiPathways,Part Of,Innate Immune System,-1.07094601463867,Reactome
+Macrophage markers,-1.46828406495433,WikiPathways,Part Of,Adaptive Immune System,1.59543718210118,Reactome
+MAPK Cascade,1.44763408280078,WikiPathways,Part Of,MAPK signaling pathway,1.63843752100925,KEGG
+Matrix Metalloproteinases,-1.92142690430041,WikiPathways,Part Of,Extracellular matrix organization,-1.36260691313119,Reactome
+MET in type 1 papillary renal cell carcinoma,1.58964273518774,WikiPathways,Part Of,Renal cell carcinoma,1.52435464363518,KEGG
+Metabolism of Spingolipids in ER and Golgi apparatus,1.20309867410684,WikiPathways,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+Metabolism of Spingolipids in ER and Golgi apparatus,1.20309867410684,WikiPathways,Part Of,Sphingolipid metabolism,1.14022728096803,Reactome
+Methionine De Novo and Salvage Pathway,1.56541055715027,WikiPathways,Part Of,Cysteine and methionine metabolism,1.62342330526987,KEGG
+Microglia Pathogen Phagocytosis Pathway,-1.42536916469378,WikiPathways,Part Of,Innate Immune System,-1.07094601463867,Reactome
+Mitochondrial Gene Expression,1.57362567570462,WikiPathways,Part Of,Organelle biogenesis and maintenance,2.26286642019896,Reactome
+Mitochondrial Gene Expression,1.57362567570462,WikiPathways,Part Of,Transcriptional activation of mitochondrial biogenesis,2.08568911836103,Reactome
+Monoamine GPCRs,1.06553893933811,WikiPathways,Part Of,Neuroactive ligand-receptor interaction,0.691822801621522,KEGG
+Monoamine Transport,-1.12938848186809,WikiPathways,Part Of,Neurotransmitter clearance,-1.41523926943663,Reactome
+mRNA Processing,2.43689424422104,WikiPathways,Part Of,mRNA Splicing,2.27276011471109,Reactome
+mRNA Processing,2.43689424422104,WikiPathways,Part Of,Metabolism of RNA,2.2366875057622,Reactome
+NAD Biosynthesis II (from tryptophan),-0.706723927074771,WikiPathways,Part Of,Nicotinate and nicotinamide metabolism,-1.36254462971142,KEGG
+NAD Biosynthesis II (from tryptophan),-0.706723927074771,WikiPathways,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+NAD Biosynthesis II (from tryptophan),-0.706723927074771,WikiPathways,Part Of,Tryptophan catabolism,-0.967221600238382,Reactome
+NAD Biosynthesis II (from tryptophan),-0.706723927074771,WikiPathways,Part Of,Nicotinate metabolism,-1.10976694606418,Reactome
+NAD Biosynthesis II (from tryptophan),-0.706723927074771,WikiPathways,Part Of,Metabolism of vitamins and cofactors,1.1025839783589,Reactome
+NAD Biosynthesis II (from tryptophan),-0.706723927074771,WikiPathways,Part Of,Metabolism of water-soluble vitamins and cofactors,1.14622128220297,Reactome
+Nanomaterial induced apoptosis,0.789624172744833,WikiPathways,Part Of,Apoptosis,1.1773387591651,KEGG
+Nicotine Activity on Dopaminergic Neurons,0.88083472746429,WikiPathways,Part Of,Neuronal System,1.35757494445995,Reactome
+Nicotine Activity on Dopaminergic Neurons,0.88083472746429,WikiPathways,Part Of,Dopamine receptors,0.968715476436407,Reactome
+Nicotine Metabolism,-0.563394676615777,WikiPathways,Part Of,Nicotinate and nicotinamide metabolism,-1.36254462971142,KEGG
+NLR Proteins,1.20935316991042,WikiPathways,Part Of,Innate Immune System,-1.07094601463867,Reactome
+Nuclear Receptors,1.87188793277722,WikiPathways,Part Of,Signaling by Nuclear Receptors,1.65252557336293,Reactome
+Nuclear Receptors,1.87188793277722,WikiPathways,Part Of,Nuclear Receptor transcription pathway,1.83438100249408,Reactome
+Nuclear Receptors in Lipid Metabolism and Toxicity,1.12072493702602,WikiPathways,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+Oxidative Stress,-0.885161741946724,WikiPathways,Part Of,Cellular responses to external stimuli,1.78053400238296,Reactome
+p38 MAPK Signaling Pathway,1.78087648755626,WikiPathways,Part Of,MAPK signaling pathway,1.63843752100925,KEGG
+PDGF Pathway,1.55805790730864,WikiPathways,Part Of,"Platelet activation, signaling and aggregation",1.2386394028746,Reactome
+Peptide GPCRs,-0.755459620832948,WikiPathways,Part Of,Neuroactive ligand-receptor interaction,0.691822801621522,KEGG
+Peptide GPCRs,-0.755459620832948,WikiPathways,Part Of,Signaling by GPCR,-0.696509304536105,Reactome
+Peptide GPCRs,-0.755459620832948,WikiPathways,Part Of,GPCR ligand binding,-0.8704014707209,Reactome
+PPAR Alpha Pathway,1.32147773195637,WikiPathways,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+PPAR signaling pathway,-1.12289001573287,WikiPathways,Part Of,Fatty acid metabolism,1.15129338681017,Reactome
+Prostaglandin Synthesis and Regulation,1.16749110690802,WikiPathways,Part Of,Metabolism of lipids,1.74145013610276,Reactome
+Robo4 and VEGF Signaling Pathways Crosstalk,0.972884506690137,WikiPathways,Part Of,VEGF signaling pathway,1.21100748811437,KEGG
+Signaling Pathways in Glioblastoma,2.30642719676605,WikiPathways,Part Of,Pathways in cancer,1.68249226328719,KEGG
+Small Ligand GPCRs,-0.759215737147482,WikiPathways,Part Of,Neuroactive ligand-receptor interaction,0.691822801621522,KEGG
+Small Ligand GPCRs,-0.759215737147482,WikiPathways,Part Of,Signaling by GPCR,-0.696509304536105,Reactome
+Small Ligand GPCRs,-0.759215737147482,WikiPathways,Part Of,GPCR ligand binding,-0.8704014707209,Reactome
+Steroid Biosynthesis,0.911918902889569,WikiPathways,Part Of,Metabolism of steroids,1.76577018523891,Reactome
+Steroid Biosynthesis,0.911918902889569,WikiPathways,Part Of,Metabolism of steroid hormones,1.02328811366821,Reactome
+Sulfation Biotransformation Reaction,0.837172524156687,WikiPathways,Part Of,Sulfur metabolism,-1.23384490346416,KEGG
+Synaptic Vesicle Pathway,0.870988995524412,WikiPathways,Part Of,Neuronal System,1.35757494445995,Reactome
+TCA Cycle and Deficiency of Pyruvate Dehydrogenase complex (PDHc),1.51942011291203,WikiPathways,Part Of,Citrate cycle (TCA cycle),1.39369841539651,KEGG
+TLR4 Signaling and Tolerance,-1.43136150207731,WikiPathways,Part Of,Innate Immune System,-1.07094601463867,Reactome
+Transcription factor regulation in adipogenesis,0.962425947050692,WikiPathways,Part Of,Transcriptional regulation of white adipocyte differentiation,1.71982653355696,Reactome
+Transcriptional cascade regulating adipogenesis,0.955614138560593,WikiPathways,Part Of,Transcriptional regulation of white adipocyte differentiation,1.71982653355696,Reactome
+Translation Factors,1.69529633466532,WikiPathways,Part Of,Eukaryotic Translation Initiation,1.25218019474239,Reactome
+Translation Factors,1.69529633466532,WikiPathways,Part Of,Translation,1.46341873938199,Reactome
+Triacylglyceride Synthesis,1.30155406198049,WikiPathways,Part Of,Glycerolipid metabolism,1.13232259632349,KEGG
+Triacylglyceride Synthesis,1.30155406198049,WikiPathways,Part Of,Glycerophospholipid metabolism,1.14296454121824,KEGG
+Type III interferon signaling,-1.46017634258532,WikiPathways,Part Of,Signaling by Interleukins,1.26300147945269,Reactome
+Type III interferon signaling,-1.46017634258532,WikiPathways,Part Of,Other interleukin signaling,-1.54660440965173,Reactome
+Type III interferon signaling,-1.46017634258532,WikiPathways,Part Of,Cytokine Signaling in Immune system,-1.22984281434227,Reactome
+Type III interferon signaling,-1.46017634258532,WikiPathways,Part Of,Interferon Signaling,-1.74359766450895,Reactome
+Urea cycle and metabolism of amino groups,1.20404243870453,WikiPathways,Part Of,Metabolism of amino acids and derivatives,1.3755568442137,Reactome
+Vitamin A and Carotenoid Metabolism,0.841271091235413,WikiPathways,Part Of,Metabolism of vitamins and cofactors,1.1025839783589,Reactome
+Vitamin B12 Metabolism,-1.54321828598458,WikiPathways,Part Of,"Cobalamin (Cbl, vitamin B12) transport and metabolism",1.02360016434971,Reactome
+Vitamin B12 Metabolism,-1.54321828598458,WikiPathways,Part Of,Metabolism of vitamins and cofactors,1.1025839783589,Reactome
+White fat cell differentiation,1.13042981763361,WikiPathways,Part Of,Developmental Biology,1.63982943195317,Reactome
+Wnt Signaling Pathway and Pluripotency,1.42725859651796,WikiPathways,Part Of,Wnt signaling pathway,2.01124537809855,KEGG
