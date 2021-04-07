@@ -48,11 +48,11 @@ names(Wpaths) <- WikiPathways$geneset.names
 
 #FGSEA
 KEGGRes <- fgsea(pathways = Kpaths, stats = ranks, 
-                 minSize = 5, maxSize = 500)
+                 minSize = 15, maxSize = 5000)
 ReactomeRes <- fgsea(Rpaths, ranks, 
-                     minSize=5, maxSize = 500)
+                     minSize = 15, maxSize = 5000)
 WikiPathwaysRes <- fgsea(Wpaths, ranks, 
-                         minSize=5, maxSize = 500)
+                         minSize = 15, maxSize = 5000)
 
 #------------------------------------------------------------------------------
 
